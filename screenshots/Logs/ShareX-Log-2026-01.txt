@@ -1,0 +1,215 @@
+﻿2026-01-03 13:39:22.859 - ShareX starting.
+2026-01-03 13:39:22.862 - Version: 18.0.1
+2026-01-03 13:39:22.862 - Build: Release
+2026-01-03 13:39:22.863 - Command line: D:\ShareX\ShareX.dll -silent
+2026-01-03 13:39:22.863 - Personal path: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots
+2026-01-03 13:39:22.863 - Personal path detection method: PersonalPath.cfg file (C:\Users\jrmar\Documents\ShareX\PersonalPath.cfg)
+2026-01-03 13:39:22.864 - Operating system: Windows 10 Pro (64-bit)
+2026-01-03 13:39:22.865 - .NET version: 9.0.8
+2026-01-03 13:39:22.865 - Running as elevated process: False
+2026-01-03 13:39:22.934 - Flags: SilentRun
+2026-01-03 13:39:23.248 - ApplicationConfig load started: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\ApplicationConfig.json
+2026-01-03 13:39:24.230 - ApplicationConfig load finished: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\ApplicationConfig.json
+2026-01-03 13:39:25.628 - MainForm init started.
+2026-01-03 13:39:25.659 - UploadersConfig load started: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\UploadersConfig.json
+2026-01-03 13:39:25.894 - UploadersConfig load finished: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\UploadersConfig.json
+2026-01-03 13:39:25.897 - HotkeysConfig load started: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\HotkeysConfig.json
+2026-01-03 13:39:25.936 - HotkeysConfig load finished: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\HotkeysConfig.json
+2026-01-03 13:39:26.582 - MainForm init finished.
+2026-01-03 13:39:27.203 - Hotkey registered: Hotkey: Ctrl + Print Screen, Description: Capture region, Job: RectangleRegion
+2026-01-03 13:39:27.203 - Hotkey registered: Hotkey: Print Screen, Description: Capture entire screen, Job: PrintScreen
+2026-01-03 13:39:27.203 - Hotkey registered: Hotkey: Alt + Print Screen, Description: Capture active window, Job: ActiveWindow
+2026-01-03 13:39:27.203 - Hotkey registered: Hotkey: Shift + Print Screen, Description: Start/Stop screen recording, Job: ScreenRecorder
+2026-01-03 13:39:27.203 - Hotkey registered: Hotkey: Ctrl + Shift + Print Screen, Description: Start/Stop screen recording (GIF), Job: ScreenRecorderGIF
+2026-01-03 13:39:27.203 - HotkeyManager started.
+2026-01-03 13:39:27.204 - WatchFolderManager started.
+2026-01-03 13:39:27.215 - Startup time: 4882 ms
+2026-01-03 13:39:27.217 - CommandLine: -silent
+2026-01-04 20:16:04.009 - ShareX starting.
+2026-01-04 20:16:04.011 - Version: 18.0.1
+2026-01-04 20:16:04.011 - Build: Release
+2026-01-04 20:16:04.012 - Command line: D:\ShareX\ShareX.dll -silent
+2026-01-04 20:16:04.012 - Personal path: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots
+2026-01-04 20:16:04.012 - Personal path detection method: PersonalPath.cfg file (C:\Users\jrmar\Documents\ShareX\PersonalPath.cfg)
+2026-01-04 20:16:04.012 - Operating system: Windows 10 Pro (64-bit)
+2026-01-04 20:16:04.014 - .NET version: 9.0.8
+2026-01-04 20:16:04.014 - Running as elevated process: False
+2026-01-04 20:16:04.030 - Flags: SilentRun
+2026-01-04 20:16:04.470 - ApplicationConfig load started: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\ApplicationConfig.json
+2026-01-04 20:16:05.209 - ApplicationConfig load finished: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\ApplicationConfig.json
+2026-01-04 20:16:06.690 - MainForm init started.
+2026-01-04 20:16:06.701 - UploadersConfig load started: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\UploadersConfig.json
+2026-01-04 20:16:06.900 - UploadersConfig load finished: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\UploadersConfig.json
+2026-01-04 20:16:06.904 - HotkeysConfig load started: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\HotkeysConfig.json
+2026-01-04 20:16:06.928 - HotkeysConfig load finished: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\HotkeysConfig.json
+2026-01-04 20:16:07.201 - MainForm init finished.
+2026-01-04 20:16:07.283 - Hotkey registered: Hotkey: Ctrl + Print Screen, Description: Capture region, Job: RectangleRegion
+2026-01-04 20:16:07.283 - Hotkey registered: Hotkey: Print Screen, Description: Capture entire screen, Job: PrintScreen
+2026-01-04 20:16:07.283 - Hotkey registered: Hotkey: Alt + Print Screen, Description: Capture active window, Job: ActiveWindow
+2026-01-04 20:16:07.283 - Hotkey registered: Hotkey: Shift + Print Screen, Description: Start/Stop screen recording, Job: ScreenRecorder
+2026-01-04 20:16:07.284 - Hotkey registered: Hotkey: Ctrl + Shift + Print Screen, Description: Start/Stop screen recording (GIF), Job: ScreenRecorderGIF
+2026-01-04 20:16:07.284 - HotkeyManager started.
+2026-01-04 20:16:07.284 - WatchFolderManager started.
+2026-01-04 20:16:07.290 - Startup time: 3437 ms
+2026-01-04 20:16:07.292 - CommandLine: -silent
+2026-01-07 19:05:15.316 - Hotkey triggered. Hotkey: Print Screen, Description: Capture entire screen, Job: PrintScreen
+2026-01-07 19:05:15.317 - Executing: Capture entire screen
+2026-01-07 19:05:15.476 - Task in queue. Job: Job, Type: Image, Host: 
+2026-01-07 19:05:15.631 - Task status: Preparing
+2026-01-07 19:05:15.866 - Hotkey triggered. Hotkey: Print Screen, Description: Capture entire screen, Job: PrintScreen
+2026-01-07 19:05:15.866 - Executing: Capture entire screen
+2026-01-07 19:05:15.883 - Image copied to clipboard.
+2026-01-07 19:05:15.910 - Task in queue. Job: Job, Type: Image, Host: 
+2026-01-07 19:05:15.919 - Task status: Preparing
+2026-01-07 19:05:15.973 - Image saved to file: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\Screenshots\2026-01\OMrk22vSvI.png
+2026-01-07 19:05:16.004 - Task completed. File name: OMrk22vSvI.png, Duration: 372 ms
+2026-01-07 19:05:16.064 - Image copied to clipboard.
+2026-01-07 19:05:16.141 - Image saved to file: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\Screenshots\2026-01\PvL8Sm99Fp.png
+2026-01-07 19:05:16.205 - Task completed. File name: PvL8Sm99Fp.png, Duration: 286 ms
+2026-01-07 19:05:16.448 - Exception:
+code = 65535 (65535), message = System.Data.SQLite.SQLiteException (0x80004005): unknown error
+No transaction is active on this connection
+   at System.Data.SQLite.SQLiteTransactionBase.IsValid(Boolean throwError)
+   at System.Data.SQLite.SQLiteTransaction.Commit()
+   at ShareX.HistoryLib.HistoryManagerSQLite.Append(String dbPath, IEnumerable`1 historyItems)
+   at ShareX.HistoryLib.HistoryManager.Append(IEnumerable`1 historyItems)
+   at ShareX.HistoryLib.HistoryManager.AppendHistoryItems(IEnumerable`1 historyItems)
+2026-01-10 10:01:41.678 - Arguments received: ""
+2026-01-10 10:02:22.007 - Task in queue. Job: Job, Type: Image, Host: 
+2026-01-10 10:02:22.034 - Task status: Preparing
+2026-01-10 10:02:22.085 - Image copied to clipboard.
+2026-01-10 10:02:22.119 - Image saved to file: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\Screenshots\2026-01\VirtualBoxVM_SVrGR2ELcH.png
+2026-01-10 10:02:22.147 - Task completed. File name: VirtualBoxVM_SVrGR2ELcH.png, Duration: 114 ms
+2026-01-10 16:42:39.807 - ApplicationConfig save started: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\ApplicationConfig.json
+2026-01-10 16:42:39.807 - UploadersConfig save started: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\UploadersConfig.json
+2026-01-10 16:42:39.808 - HotkeysConfig save started: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\HotkeysConfig.json
+2026-01-10 16:42:40.048 - HotkeysConfig save successful: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\HotkeysConfig.json
+2026-01-10 16:42:40.050 - UploadersConfig save successful: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\UploadersConfig.json
+2026-01-10 16:42:40.148 - ApplicationConfig save successful: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\ApplicationConfig.json
+2026-01-10 16:42:41.062 - ApplicationConfig save started: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\ApplicationConfig.json
+2026-01-10 16:42:41.062 - UploadersConfig save started: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\UploadersConfig.json
+2026-01-10 16:42:41.062 - HotkeysConfig save started: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\HotkeysConfig.json
+2026-01-10 16:42:41.086 - HotkeysConfig save successful: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\HotkeysConfig.json
+2026-01-10 16:42:41.101 - UploadersConfig save successful: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\UploadersConfig.json
+2026-01-10 16:42:41.151 - ApplicationConfig save successful: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\ApplicationConfig.json
+2026-01-10 20:45:10.121 - Task in queue. Job: Job, Type: Image, Host: 
+2026-01-10 20:45:10.151 - Task status: Preparing
+2026-01-10 20:45:10.208 - Image copied to clipboard.
+2026-01-10 20:45:10.251 - Image saved to file: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\Screenshots\2026-01\VirtualBoxVM_lFmqd43rOe.png
+2026-01-10 20:45:10.288 - Task completed. File name: VirtualBoxVM_lFmqd43rOe.png, Duration: 137 ms
+2026-01-10 21:18:46.083 - Task in queue. Job: Job, Type: Image, Host: 
+2026-01-10 21:18:46.125 - Task status: Preparing
+2026-01-10 21:18:46.184 - Image copied to clipboard.
+2026-01-10 21:18:46.233 - Image saved to file: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\Screenshots\2026-01\VirtualBoxVM_WsVEhMyclm.png
+2026-01-10 21:18:46.293 - Task completed. File name: VirtualBoxVM_WsVEhMyclm.png, Duration: 170 ms
+2026-01-10 21:31:07.032 - Task in queue. Job: Job, Type: Image, Host: 
+2026-01-10 21:31:07.089 - Task status: Preparing
+2026-01-10 21:31:07.150 - Image copied to clipboard.
+2026-01-10 21:31:07.200 - Image saved to file: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\Screenshots\2026-01\chrome_6OxXHgFOWH.png
+2026-01-10 21:31:07.247 - Task completed. File name: chrome_6OxXHgFOWH.png, Duration: 160 ms
+2026-01-11 11:15:44.283 - Task in queue. Job: Job, Type: Image, Host: 
+2026-01-11 11:15:44.326 - Task status: Preparing
+2026-01-11 11:15:44.385 - Image copied to clipboard.
+2026-01-11 11:15:44.444 - Image saved to file: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\Screenshots\2026-01\VirtualBoxVM_6om3BweWwP.png
+2026-01-11 11:15:44.497 - Task completed. File name: VirtualBoxVM_6om3BweWwP.png, Duration: 173 ms
+2026-01-11 14:41:27.940 - Task in queue. Job: Job, Type: Image, Host: 
+2026-01-11 14:41:27.996 - Task status: Preparing
+2026-01-11 14:41:28.049 - Image copied to clipboard.
+2026-01-11 14:41:28.091 - Image saved to file: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\Screenshots\2026-01\chrome_X3r4UTzcCt.png
+2026-01-11 14:41:28.192 - Task completed. File name: chrome_X3r4UTzcCt.png, Duration: 200 ms
+2026-01-11 15:45:29.848 - Task in queue. Job: Job, Type: Image, Host: 
+2026-01-11 15:45:29.925 - Task status: Preparing
+2026-01-11 15:45:29.991 - Image copied to clipboard.
+2026-01-11 15:45:30.038 - Image saved to file: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\Screenshots\2026-01\chrome_8lDSthQYiF.png
+2026-01-11 15:45:30.125 - Task completed. File name: chrome_8lDSthQYiF.png, Duration: 204 ms
+2026-01-11 23:17:56.276 - Task in queue. Job: Job, Type: Image, Host: 
+2026-01-11 23:17:56.334 - Task status: Preparing
+2026-01-11 23:17:56.406 - Image copied to clipboard.
+2026-01-11 23:17:56.441 - Image saved to file: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\Screenshots\2026-01\chrome_lFLqO3Q6dm.png
+2026-01-11 23:17:56.513 - Task completed. File name: chrome_lFLqO3Q6dm.png, Duration: 182 ms
+2026-01-11 23:18:35.553 - Task in queue. Job: Job, Type: Image, Host: 
+2026-01-11 23:18:35.617 - Task status: Preparing
+2026-01-11 23:18:35.681 - Image copied to clipboard.
+2026-01-11 23:18:35.710 - Image saved to file: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\Screenshots\2026-01\eyDIyI6Xlr.png
+2026-01-11 23:18:35.791 - Task completed. File name: eyDIyI6Xlr.png, Duration: 173 ms
+2026-01-12 15:40:13.392 - ShareX closing.
+2026-01-12 15:40:14.350 - ApplicationConfig save started: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\ApplicationConfig.json
+2026-01-12 15:40:14.585 - ApplicationConfig save successful: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\ApplicationConfig.json
+2026-01-12 15:40:14.586 - UploadersConfig save started: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\UploadersConfig.json
+2026-01-12 15:40:14.734 - UploadersConfig save successful: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\UploadersConfig.json
+2026-01-12 15:40:14.734 - HotkeysConfig save started: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\HotkeysConfig.json
+2026-01-12 15:40:14.795 - HotkeysConfig save successful: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\HotkeysConfig.json
+2026-01-12 15:40:14.795 - ShareX closed.
+2026-01-12 15:43:28.881 - ShareX starting.
+2026-01-12 15:43:28.895 - Version: 18.0.1
+2026-01-12 15:43:28.895 - Build: Release
+2026-01-12 15:43:28.895 - Command line: D:\ShareX\ShareX.dll -silent
+2026-01-12 15:43:28.895 - Personal path: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots
+2026-01-12 15:43:28.895 - Personal path detection method: PersonalPath.cfg file (C:\Users\jrmar\Documents\ShareX\PersonalPath.cfg)
+2026-01-12 15:43:28.896 - Operating system: Windows 10 Pro (64-bit)
+2026-01-12 15:43:28.897 - .NET version: 9.0.8
+2026-01-12 15:43:28.897 - Running as elevated process: False
+2026-01-12 15:43:28.973 - Flags: SilentRun
+2026-01-12 15:43:29.243 - ApplicationConfig load started: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\ApplicationConfig.json
+2026-01-12 15:43:30.750 - ApplicationConfig load finished: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\ApplicationConfig.json
+2026-01-12 15:43:32.268 - MainForm init started.
+2026-01-12 15:43:32.269 - UploadersConfig load started: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\UploadersConfig.json
+2026-01-12 15:43:32.454 - UploadersConfig load finished: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\UploadersConfig.json
+2026-01-12 15:43:32.454 - HotkeysConfig load started: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\HotkeysConfig.json
+2026-01-12 15:43:32.563 - HotkeysConfig load finished: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\HotkeysConfig.json
+2026-01-12 15:43:33.140 - MainForm init finished.
+2026-01-12 15:43:33.242 - Hotkey registered: Hotkey: Ctrl + Print Screen, Description: Capture region, Job: RectangleRegion
+2026-01-12 15:43:33.242 - Hotkey registered: Hotkey: Print Screen, Description: Capture entire screen, Job: PrintScreen
+2026-01-12 15:43:33.242 - Hotkey registered: Hotkey: Alt + Print Screen, Description: Capture active window, Job: ActiveWindow
+2026-01-12 15:43:33.242 - Hotkey registered: Hotkey: Shift + Print Screen, Description: Start/Stop screen recording, Job: ScreenRecorder
+2026-01-12 15:43:33.242 - Hotkey registered: Hotkey: Ctrl + Shift + Print Screen, Description: Start/Stop screen recording (GIF), Job: ScreenRecorderGIF
+2026-01-12 15:43:33.243 - HotkeyManager started.
+2026-01-12 15:43:33.243 - WatchFolderManager started.
+2026-01-12 15:43:33.249 - Startup time: 4714 ms
+2026-01-12 15:43:33.250 - CommandLine: -silent
+2026-01-12 16:08:01.740 - ShareX closing.
+2026-01-12 16:08:01.850 - ApplicationConfig save started: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\ApplicationConfig.json
+2026-01-12 16:08:02.446 - ApplicationConfig save successful: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\ApplicationConfig.json
+2026-01-12 16:08:02.447 - UploadersConfig save started: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\UploadersConfig.json
+2026-01-12 16:08:02.536 - UploadersConfig save successful: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\UploadersConfig.json
+2026-01-12 16:08:02.537 - HotkeysConfig save started: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\HotkeysConfig.json
+2026-01-12 16:08:02.566 - HotkeysConfig save successful: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\HotkeysConfig.json
+2026-01-12 16:08:02.566 - ShareX closed.
+2026-01-12 16:20:59.280 - ShareX starting.
+2026-01-12 16:20:59.281 - Version: 18.0.1
+2026-01-12 16:20:59.282 - Build: Release
+2026-01-12 16:20:59.282 - Command line: D:\ShareX\ShareX.dll -silent
+2026-01-12 16:20:59.282 - Personal path: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots
+2026-01-12 16:20:59.282 - Personal path detection method: PersonalPath.cfg file (C:\Users\jrmar\Documents\ShareX\PersonalPath.cfg)
+2026-01-12 16:20:59.282 - Operating system: Windows 10 Pro (64-bit)
+2026-01-12 16:20:59.283 - .NET version: 9.0.8
+2026-01-12 16:20:59.283 - Running as elevated process: False
+2026-01-12 16:20:59.293 - Flags: SilentRun
+2026-01-12 16:20:59.324 - ApplicationConfig load started: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\ApplicationConfig.json
+2026-01-12 16:20:59.553 - ApplicationConfig load finished: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\ApplicationConfig.json
+2026-01-12 16:21:00.507 - MainForm init started.
+2026-01-12 16:21:00.508 - UploadersConfig load started: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\UploadersConfig.json
+2026-01-12 16:21:00.564 - UploadersConfig load finished: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\UploadersConfig.json
+2026-01-12 16:21:00.564 - HotkeysConfig load started: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\HotkeysConfig.json
+2026-01-12 16:21:00.581 - HotkeysConfig load finished: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\HotkeysConfig.json
+2026-01-12 16:21:00.839 - MainForm init finished.
+2026-01-12 16:21:00.916 - Hotkey registered: Hotkey: Ctrl + Print Screen, Description: Capture region, Job: RectangleRegion
+2026-01-12 16:21:00.916 - Hotkey registered: Hotkey: Print Screen, Description: Capture entire screen, Job: PrintScreen
+2026-01-12 16:21:00.916 - Hotkey registered: Hotkey: Alt + Print Screen, Description: Capture active window, Job: ActiveWindow
+2026-01-12 16:21:00.916 - Hotkey registered: Hotkey: Shift + Print Screen, Description: Start/Stop screen recording, Job: ScreenRecorder
+2026-01-12 16:21:00.916 - Hotkey registered: Hotkey: Ctrl + Shift + Print Screen, Description: Start/Stop screen recording (GIF), Job: ScreenRecorderGIF
+2026-01-12 16:21:00.917 - HotkeyManager started.
+2026-01-12 16:21:00.917 - WatchFolderManager started.
+2026-01-12 16:21:00.923 - Startup time: 1693 ms
+2026-01-12 16:21:00.924 - CommandLine: -silent
+2026-01-12 22:02:20.298 - Arguments received: ""
+2026-01-12 22:02:29.911 - Task in queue. Job: Job, Type: Image, Host: 
+2026-01-12 22:02:30.052 - Task status: Preparing
+2026-01-12 22:02:30.129 - Image copied to clipboard.
+2026-01-12 22:02:30.163 - Image saved to file: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\Screenshots\2026-01\chrome_NVfJldtZoH.png
+2026-01-12 22:02:30.209 - Task completed. File name: chrome_NVfJldtZoH.png, Duration: 148 ms
+2026-01-12 22:42:16.032 - Task in queue. Job: Job, Type: Image, Host: 
+2026-01-12 22:42:16.055 - Task status: Preparing
+2026-01-12 22:42:16.070 - Image copied to clipboard.
+2026-01-12 22:42:16.081 - Image saved to file: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\Screenshots\2026-01\chrome_E9Bku1aGhm.png
+2026-01-12 22:42:16.095 - Task completed. File name: chrome_E9Bku1aGhm.png, Duration: 41 ms
