@@ -213,3 +213,174 @@ No transaction is active on this connection
 2026-01-12 22:42:16.070 - Image copied to clipboard.
 2026-01-12 22:42:16.081 - Image saved to file: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\Screenshots\2026-01\chrome_E9Bku1aGhm.png
 2026-01-12 22:42:16.095 - Task completed. File name: chrome_E9Bku1aGhm.png, Duration: 41 ms
+2026-01-22 01:21:18.612 - GitHub update check failed.:
+System.Net.Http.HttpRequestException: No such host is known. (api.github.com:443)
+ ---> System.Net.Sockets.SocketException (11001): No such host is known.
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Net.Sockets.Socket.<ConnectAsync>g__WaitForConnectWithCancellation|285_0(AwaitableSocketAsyncEventArgs saea, ValueTask connectTask, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.InjectNewHttp11ConnectionAsync(QueueItem queueItem)
+   at System.Threading.Tasks.TaskCompletionSourceWithCancellation`1.WaitWithCancellationAsync(CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at ShareX.HelpersLib.WebHelpers.DownloadStringAsync(String url)
+   at ShareX.HelpersLib.GitHubUpdateChecker.GetLatestRelease()
+   at ShareX.HelpersLib.GitHubUpdateChecker.GetLatestRelease(Boolean includePreRelease)
+   at ShareX.HelpersLib.GitHubUpdateChecker.CheckUpdateAsync()
+2026-01-22 02:21:18.353 - GitHub update check failed.:
+System.Net.Http.HttpRequestException: No such host is known. (api.github.com:443)
+ ---> System.Net.Sockets.SocketException (11001): No such host is known.
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Net.Sockets.Socket.<ConnectAsync>g__WaitForConnectWithCancellation|285_0(AwaitableSocketAsyncEventArgs saea, ValueTask connectTask, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.InjectNewHttp11ConnectionAsync(QueueItem queueItem)
+   at System.Threading.Tasks.TaskCompletionSourceWithCancellation`1.WaitWithCancellationAsync(CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at ShareX.HelpersLib.WebHelpers.DownloadStringAsync(String url)
+   at ShareX.HelpersLib.GitHubUpdateChecker.GetLatestRelease()
+   at ShareX.HelpersLib.GitHubUpdateChecker.GetLatestRelease(Boolean includePreRelease)
+   at ShareX.HelpersLib.GitHubUpdateChecker.CheckUpdateAsync()
+2026-01-24 10:46:06.627 - ShareX starting.
+2026-01-24 10:46:06.638 - Version: 18.0.1
+2026-01-24 10:46:06.638 - Build: Release
+2026-01-24 10:46:06.639 - Command line: D:\ShareX\ShareX.dll -silent
+2026-01-24 10:46:06.640 - Personal path: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots
+2026-01-24 10:46:06.640 - Personal path detection method: PersonalPath.cfg file (C:\Users\jrmar\Documents\ShareX\PersonalPath.cfg)
+2026-01-24 10:46:06.640 - Operating system: Windows 10 Pro (64-bit)
+2026-01-24 10:46:06.641 - .NET version: 9.0.8
+2026-01-24 10:46:06.641 - Running as elevated process: False
+2026-01-24 10:46:06.719 - Flags: SilentRun
+2026-01-24 10:46:06.998 - ApplicationConfig load started: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\ApplicationConfig.json
+2026-01-24 10:46:08.061 - ApplicationConfig load finished: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\ApplicationConfig.json
+2026-01-24 10:46:08.988 - MainForm init started.
+2026-01-24 10:46:08.995 - UploadersConfig load started: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\UploadersConfig.json
+2026-01-24 10:46:09.150 - UploadersConfig load finished: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\UploadersConfig.json
+2026-01-24 10:46:09.160 - HotkeysConfig load started: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\HotkeysConfig.json
+2026-01-24 10:46:09.214 - HotkeysConfig load finished: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\HotkeysConfig.json
+2026-01-24 10:46:09.700 - MainForm init finished.
+2026-01-24 10:46:09.955 - Hotkey registered: Hotkey: Ctrl + Print Screen, Description: Capture region, Job: RectangleRegion
+2026-01-24 10:46:09.955 - Hotkey registered: Hotkey: Print Screen, Description: Capture entire screen, Job: PrintScreen
+2026-01-24 10:46:09.955 - Hotkey registered: Hotkey: Alt + Print Screen, Description: Capture active window, Job: ActiveWindow
+2026-01-24 10:46:09.955 - Hotkey registered: Hotkey: Shift + Print Screen, Description: Start/Stop screen recording, Job: ScreenRecorder
+2026-01-24 10:46:09.955 - Hotkey registered: Hotkey: Ctrl + Shift + Print Screen, Description: Start/Stop screen recording (GIF), Job: ScreenRecorderGIF
+2026-01-24 10:46:09.955 - HotkeyManager started.
+2026-01-24 10:46:09.955 - WatchFolderManager started.
+2026-01-24 10:46:09.962 - Startup time: 3625 ms
+2026-01-24 10:46:09.963 - CommandLine: -silent
+2026-01-24 17:03:22.282 - ShareX starting.
+2026-01-24 17:03:22.284 - Version: 18.0.1
+2026-01-24 17:03:22.284 - Build: Release
+2026-01-24 17:03:22.284 - Command line: D:\ShareX\ShareX.dll -silent
+2026-01-24 17:03:22.284 - Personal path: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots
+2026-01-24 17:03:22.284 - Personal path detection method: PersonalPath.cfg file (C:\Users\jrmar\Documents\ShareX\PersonalPath.cfg)
+2026-01-24 17:03:22.285 - Operating system: Windows 10 Pro (64-bit)
+2026-01-24 17:03:22.285 - .NET version: 9.0.8
+2026-01-24 17:03:22.286 - Running as elevated process: False
+2026-01-24 17:03:22.296 - Flags: SilentRun
+2026-01-24 17:03:22.656 - ApplicationConfig load started: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\ApplicationConfig.json
+2026-01-24 17:03:23.160 - ApplicationConfig load finished: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\ApplicationConfig.json
+2026-01-24 17:03:24.201 - MainForm init started.
+2026-01-24 17:03:24.222 - UploadersConfig load started: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\UploadersConfig.json
+2026-01-24 17:03:24.404 - UploadersConfig load finished: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\UploadersConfig.json
+2026-01-24 17:03:24.437 - HotkeysConfig load started: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\HotkeysConfig.json
+2026-01-24 17:03:24.474 - HotkeysConfig load finished: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\HotkeysConfig.json
+2026-01-24 17:03:24.613 - MainForm init finished.
+2026-01-24 17:03:24.703 - Hotkey registered: Hotkey: Ctrl + Print Screen, Description: Capture region, Job: RectangleRegion
+2026-01-24 17:03:24.703 - Hotkey registered: Hotkey: Print Screen, Description: Capture entire screen, Job: PrintScreen
+2026-01-24 17:03:24.703 - Hotkey registered: Hotkey: Alt + Print Screen, Description: Capture active window, Job: ActiveWindow
+2026-01-24 17:03:24.703 - Hotkey registered: Hotkey: Shift + Print Screen, Description: Start/Stop screen recording, Job: ScreenRecorder
+2026-01-24 17:03:24.703 - Hotkey registered: Hotkey: Ctrl + Shift + Print Screen, Description: Start/Stop screen recording (GIF), Job: ScreenRecorderGIF
+2026-01-24 17:03:24.703 - HotkeyManager started.
+2026-01-24 17:03:24.703 - WatchFolderManager started.
+2026-01-24 17:03:24.710 - Startup time: 2482 ms
+2026-01-24 17:03:24.711 - CommandLine: -silent
+2026-01-25 00:36:56.067 - ApplicationConfig save started: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\ApplicationConfig.json
+2026-01-25 00:36:56.067 - UploadersConfig save started: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\UploadersConfig.json
+2026-01-25 00:36:56.067 - HotkeysConfig save started: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\HotkeysConfig.json
+2026-01-25 00:36:56.560 - HotkeysConfig save successful: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\HotkeysConfig.json
+2026-01-25 00:36:56.560 - UploadersConfig save successful: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\UploadersConfig.json
+2026-01-25 00:36:56.730 - ApplicationConfig save successful: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\ApplicationConfig.json
+2026-01-31 13:37:29.050 - ShareX closing.
+2026-01-31 13:37:29.398 - ApplicationConfig save started: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\ApplicationConfig.json
+2026-01-31 13:37:29.587 - ApplicationConfig save successful: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\ApplicationConfig.json
+2026-01-31 13:37:29.587 - UploadersConfig save started: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\UploadersConfig.json
+2026-01-31 13:37:29.661 - UploadersConfig save successful: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\UploadersConfig.json
+2026-01-31 13:37:29.661 - HotkeysConfig save started: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\HotkeysConfig.json
+2026-01-31 13:37:29.711 - HotkeysConfig save successful: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\HotkeysConfig.json
+2026-01-31 13:37:29.711 - ShareX closed.
+2026-01-31 13:39:35.002 - ShareX starting.
+2026-01-31 13:39:35.007 - Version: 18.0.1
+2026-01-31 13:39:35.007 - Build: Release
+2026-01-31 13:39:35.007 - Command line: D:\ShareX\ShareX.dll -silent
+2026-01-31 13:39:35.007 - Personal path: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots
+2026-01-31 13:39:35.007 - Personal path detection method: PersonalPath.cfg file (C:\Users\jrmar\Documents\ShareX\PersonalPath.cfg)
+2026-01-31 13:39:35.008 - Operating system: Windows 10 Pro (64-bit)
+2026-01-31 13:39:35.009 - .NET version: 9.0.8
+2026-01-31 13:39:35.009 - Running as elevated process: False
+2026-01-31 13:39:35.087 - Flags: SilentRun
+2026-01-31 13:39:35.284 - ApplicationConfig load started: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\ApplicationConfig.json
+2026-01-31 13:39:36.471 - ApplicationConfig load finished: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\ApplicationConfig.json
+2026-01-31 13:39:37.251 - MainForm init started.
+2026-01-31 13:39:37.251 - UploadersConfig load started: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\UploadersConfig.json
+2026-01-31 13:39:37.452 - UploadersConfig load finished: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\UploadersConfig.json
+2026-01-31 13:39:37.453 - HotkeysConfig load started: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\HotkeysConfig.json
+2026-01-31 13:39:37.474 - HotkeysConfig load finished: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\HotkeysConfig.json
+2026-01-31 13:39:38.390 - MainForm init finished.
+2026-01-31 13:39:38.772 - Hotkey registered: Hotkey: Ctrl + Print Screen, Description: Capture region, Job: RectangleRegion
+2026-01-31 13:39:38.772 - Hotkey registered: Hotkey: Print Screen, Description: Capture entire screen, Job: PrintScreen
+2026-01-31 13:39:38.772 - Hotkey registered: Hotkey: Alt + Print Screen, Description: Capture active window, Job: ActiveWindow
+2026-01-31 13:39:38.772 - Hotkey registered: Hotkey: Shift + Print Screen, Description: Start/Stop screen recording, Job: ScreenRecorder
+2026-01-31 13:39:38.772 - Hotkey registered: Hotkey: Ctrl + Shift + Print Screen, Description: Start/Stop screen recording (GIF), Job: ScreenRecorderGIF
+2026-01-31 13:39:38.772 - HotkeyManager started.
+2026-01-31 13:39:38.773 - WatchFolderManager started.
+2026-01-31 13:39:38.780 - Startup time: 4064 ms
+2026-01-31 13:39:38.781 - CommandLine: -silent
+2026-01-31 13:39:42.371 - Updating ShareX from version 18.0.1 to 19.0.2
+2026-01-31 13:39:42.463 - Downloading: "https://api.github.com/repos/ShareX/ShareX/releases/assets/346926401" -> "C:\Users\jrmar\AppData\Local\Temp\ShareX\ShareX-19.0.2-setup.exe"
+2026-01-31 13:39:44.718 - ShareX closing.
+2026-01-31 13:39:44.756 - ApplicationConfig save started: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\ApplicationConfig.json
+2026-01-31 13:39:45.083 - ApplicationConfig save successful: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\ApplicationConfig.json
+2026-01-31 13:39:45.084 - UploadersConfig save started: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\UploadersConfig.json
+2026-01-31 13:39:45.246 - UploadersConfig save successful: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\UploadersConfig.json
+2026-01-31 13:39:45.247 - HotkeysConfig save started: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\HotkeysConfig.json
+2026-01-31 13:39:45.307 - HotkeysConfig save successful: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\HotkeysConfig.json
+2026-01-31 13:39:45.307 - ShareX closed.
+2026-01-31 13:40:05.626 - ShareX starting.
+2026-01-31 13:40:05.630 - Version: 19.0.2
+2026-01-31 13:40:05.630 - Build: Release
+2026-01-31 13:40:05.630 - Command line: D:\ShareX\ShareX.dll
+2026-01-31 13:40:05.630 - Personal path: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots
+2026-01-31 13:40:05.630 - Personal path detection method: PersonalPath.cfg file (C:\Users\jrmar\Documents\ShareX\PersonalPath.cfg)
+2026-01-31 13:40:05.631 - Operating system: Windows 10 Pro (64-bit)
+2026-01-31 13:40:05.631 - .NET version: 9.0.12
+2026-01-31 13:40:05.631 - Running as elevated process: False
+2026-01-31 13:40:05.703 - ApplicationConfig load started: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\ApplicationConfig.json
+2026-01-31 13:40:06.273 - ApplicationConfig load finished: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\ApplicationConfig.json
+2026-01-31 13:40:06.489 - MainForm init started.
+2026-01-31 13:40:06.490 - UploadersConfig load started: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\UploadersConfig.json
+2026-01-31 13:40:06.496 - ShareX temp folder cleaned: C:\Users\jrmar\AppData\Local\Temp\ShareX
+2026-01-31 13:40:06.552 - UploadersConfig load finished: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\UploadersConfig.json
+2026-01-31 13:40:06.552 - HotkeysConfig load started: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\HotkeysConfig.json
+2026-01-31 13:40:06.570 - HotkeysConfig load finished: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\HotkeysConfig.json
+2026-01-31 13:40:06.988 - MainForm init finished.
+2026-01-31 13:40:07.111 - Hotkey registered: Hotkey: Ctrl + Print Screen, Description: Capture region, Job: RectangleRegion
+2026-01-31 13:40:07.111 - Hotkey registered: Hotkey: Print Screen, Description: Capture entire screen, Job: PrintScreen
+2026-01-31 13:40:07.111 - Hotkey registered: Hotkey: Alt + Print Screen, Description: Capture active window, Job: ActiveWindow
+2026-01-31 13:40:07.111 - Hotkey registered: Hotkey: Shift + Print Screen, Description: Start/Stop screen recording, Job: ScreenRecorder
+2026-01-31 13:40:07.111 - Hotkey registered: Hotkey: Ctrl + Shift + Print Screen, Description: Start/Stop screen recording (GIF), Job: ScreenRecorderGIF
+2026-01-31 13:40:07.111 - HotkeyManager started.
+2026-01-31 13:40:07.112 - WatchFolderManager started.
+2026-01-31 13:40:07.131 - Startup time: 1616 ms

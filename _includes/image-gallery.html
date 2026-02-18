@@ -1,0 +1,32 @@
+{% comment %} Custom gallery from comma-separated images. Usage examples: {%
+include gallery-slides.html images="/assets/img/beach-1.jpg,
+/assets/img/beach-2.jpg, /assets/img/beach-3.jpg" captions="beach 1, beach 2,
+beach 3" gallery="beach-trip" %} Or minimal (auto gallery name from page slug):
+{% include gallery-slides.html images="/assets/img/a.jpg, /assets/img/b.jpg" %}
+{% endcomment %} {% assign imgs = include.images | split: "," | map: "strip" %}
+{% assign caps = include.captions | split: "," | map: "strip" %} {% assign
+gallery_id = include.gallery | default: page.slug | append: "-slides" | slugify
+%} {% if imgs.size > 0 %}
+<div
+  class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3 mb-4 gallery-container"
+>
+  {% for i in (0..imgs.size) limit: imgs.size %} {% assign src = imgs[i] %} {%
+  assign cap = caps[i] | default: "Image" %}
+  <div class="col">
+    <a
+      href="{{ src | relative_url }}"
+      class="popup glightbox"
+      data-gallery="{{ gallery_id }}"
+      data-glightbox="title: {{ cap | escape }}"
+    >
+      <img
+        src="{{ src | relative_url }}"
+        alt="{{ cap | escape }}"
+        class="img-fluid rounded shadow-sm"
+        loading="lazy"
+      />
+    </a>
+  </div>
+  {% endfor %}
+</div>
+{% endif %}

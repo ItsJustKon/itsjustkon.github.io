@@ -1,49 +1,61 @@
 /**
- * Set up image popup
+ * Set up image popup with support for multiple isolated galleries via data-gallery
  *
  * Dependencies: https://github.com/biati-digital/glightbox
  */
 
-const lightImages = '.popup:not(.dark)';
-const darkImages = '.popup:not(.light)';
-let selector = lightImages;
+const lightSelector = '.popup:not(.dark)';
+const darkSelector = '.popup:not(.light)';
 
-function updateImages(current, reverse) {
-  if (selector === lightImages) {
-    selector = darkImages;
-  } else {
-    selector = lightImages;
+let activeSelector = lightSelector;
+
+function initOrUpdateLightbox() {
+  // Destroy any previous instance if it exists (safe on first call)
+  if (window.currentLightbox) {
+    window.currentLightbox.destroy();
   }
 
-  if (reverse === null) {
-    reverse = GLightbox({ selector: `${selector}` });
-  }
+  // Initialize without a forced selector → GLightbox will respect data-gallery
+  window.currentLightbox = GLightbox({
+    // Keep Chirpy's usual options if any (add more as needed)
+    touchNavigation: true,
+    loop: true,
+    autoplayVideos: true
+    // NO selector here! This is the key change.
+    // GLightbox defaults to '.glightbox' but we can override class if needed.
+  });
 
-  [current, reverse] = [reverse, current];
+  // Optional: If you really need to support only .popup elements,
+  // you can add a custom class or keep selector logic, but for isolation we drop it.
 }
 
 export function imgPopup() {
-  if (document.querySelector('.popup') === null) {
+  window.currentLightbox = GLightbox({
+    selector: '.popup' // ← add this line
+    // other options
+  });
+  if (!document.querySelector('.popup')) {
     return;
   }
 
-  const hasDualImages = !(
-    document.querySelector('.popup.light') === null &&
-    document.querySelector('.popup.dark') === null
+  const hasDualImages = !!(
+    document.querySelector('.popup.light') ||
+    document.querySelector('.popup.dark')
   );
 
-  if (Theme.visualState === Theme.DARK) {
-    selector = darkImages;
-  }
+  // Set initial selector based on current theme
+  activeSelector =
+    Theme.visualState === Theme.DARK ? darkSelector : lightSelector;
 
-  let current = GLightbox({ selector: `${selector}` });
+  initOrUpdateLightbox();
 
   if (hasDualImages && Theme.switchable) {
-    let reverse = null;
-
     window.addEventListener('message', (event) => {
       if (event.source === window && event.data && event.data.id === Theme.ID) {
-        updateImages(current, reverse);
+        // Theme changed → re-init the lightbox
+        activeSelector =
+          activeSelector === lightSelector ? darkSelector : lightSelector;
+        initOrUpdateLightbox();
       }
     });
   }

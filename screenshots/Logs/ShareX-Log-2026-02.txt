@@ -1,0 +1,1216 @@
+﻿2026-02-02 19:30:51.774 - ShareX starting.
+2026-02-02 19:30:51.778 - Version: 19.0.2
+2026-02-02 19:30:51.778 - Build: Release
+2026-02-02 19:30:51.779 - Command line: D:\ShareX\ShareX.dll -silent
+2026-02-02 19:30:51.779 - Personal path: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots
+2026-02-02 19:30:51.779 - Personal path detection method: PersonalPath.cfg file (C:\Users\jrmar\Documents\ShareX\PersonalPath.cfg)
+2026-02-02 19:30:51.780 - Operating system: Windows 10 Pro (64-bit)
+2026-02-02 19:30:51.781 - .NET version: 9.0.12
+2026-02-02 19:30:51.781 - Running as elevated process: False
+2026-02-02 19:30:51.909 - Flags: SilentRun
+2026-02-02 19:30:52.048 - ApplicationConfig load started: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\ApplicationConfig.json
+2026-02-02 19:30:52.873 - ApplicationConfig load failed: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\ApplicationConfig.json:
+System.IO.FileNotFoundException: Could not load file or assembly 'ShareX.MediaLib, Version=19.0.2.0, Culture=neutral, PublicKeyToken=null'. The system cannot find the file specified.
+File name: 'ShareX.MediaLib, Version=19.0.2.0, Culture=neutral, PublicKeyToken=null'
+   at ShareX.TaskSettingsTools..ctor()
+   at ShareX.TaskSettings..ctor()
+   at ShareX.ApplicationConfig..ctor()
+   at CreateShareX.ApplicationConfig()
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateNewObject(JsonReader reader, JsonObjectContract objectContract, JsonProperty containerMember, JsonProperty containerProperty, String id, Boolean& createdFromNonDefaultCreator)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   at Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonSerializer.Deserialize(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonSerializer.Deserialize[T](JsonReader reader)
+   at ShareX.HelpersLib.SettingsBase`1.LoadInternal(String filePath, List`1 fallbackFilePaths)
+2026-02-02 19:30:52.873 - ApplicationConfig file does not exist: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\ApplicationConfig.json.temp
+2026-02-02 19:30:52.884 - ApplicationConfig load started: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\Backup\ApplicationConfig.json
+2026-02-02 19:30:52.920 - ApplicationConfig load failed: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\Backup\ApplicationConfig.json:
+System.IO.FileNotFoundException: Could not load file or assembly 'ShareX.MediaLib, Version=19.0.2.0, Culture=neutral, PublicKeyToken=null'. The system cannot find the file specified.
+File name: 'ShareX.MediaLib, Version=19.0.2.0, Culture=neutral, PublicKeyToken=null'
+   at ShareX.TaskSettingsTools..ctor()
+   at ShareX.TaskSettings..ctor()
+   at ShareX.ApplicationConfig..ctor()
+   at CreateShareX.ApplicationConfig()
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateNewObject(JsonReader reader, JsonObjectContract objectContract, JsonProperty containerMember, JsonProperty containerProperty, String id, Boolean& createdFromNonDefaultCreator)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   at Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonSerializer.Deserialize(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonSerializer.Deserialize[T](JsonReader reader)
+   at ShareX.HelpersLib.SettingsBase`1.LoadInternal(String filePath, List`1 fallbackFilePaths)
+2026-02-02 19:30:52.920 - ApplicationConfig load started: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\Backup\ApplicationConfig-2026-01-W05.json
+2026-02-02 19:30:52.935 - ApplicationConfig load failed: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\Backup\ApplicationConfig-2026-01-W05.json:
+System.IO.FileNotFoundException: Could not load file or assembly 'ShareX.MediaLib, Version=19.0.2.0, Culture=neutral, PublicKeyToken=null'. The system cannot find the file specified.
+File name: 'ShareX.MediaLib, Version=19.0.2.0, Culture=neutral, PublicKeyToken=null'
+   at ShareX.TaskSettingsTools..ctor()
+   at ShareX.TaskSettings..ctor()
+   at ShareX.ApplicationConfig..ctor()
+   at CreateShareX.ApplicationConfig()
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateNewObject(JsonReader reader, JsonObjectContract objectContract, JsonProperty containerMember, JsonProperty containerProperty, String id, Boolean& createdFromNonDefaultCreator)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   at Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonSerializer.Deserialize(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonSerializer.Deserialize[T](JsonReader reader)
+   at ShareX.HelpersLib.SettingsBase`1.LoadInternal(String filePath, List`1 fallbackFilePaths)
+2026-02-02 19:30:52.935 - Loading new ApplicationConfig instance.
+2026-02-02 19:30:53.175 - Unhandled exception:
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation.
+ ---> System.IO.FileNotFoundException: Could not load file or assembly 'ShareX.MediaLib, Version=19.0.2.0, Culture=neutral, PublicKeyToken=null'. The system cannot find the file specified.
+File name: 'ShareX.MediaLib, Version=19.0.2.0, Culture=neutral, PublicKeyToken=null'
+   at ShareX.TaskSettingsTools..ctor()
+   at ShareX.TaskSettings..ctor()
+   at ShareX.ApplicationConfig..ctor()
+   at System.RuntimeType.CreateInstanceOfT()
+   --- End of inner exception stack trace ---
+   at System.RuntimeType.CreateInstanceOfT()
+   at System.Activator.CreateInstance[T]()
+   at ShareX.HelpersLib.SettingsBase`1.LoadInternal(String filePath, List`1 fallbackFilePaths)
+   at ShareX.HelpersLib.SettingsBase`1.LoadInternal(String filePath, List`1 fallbackFilePaths)
+   at ShareX.HelpersLib.SettingsBase`1.LoadInternal(String filePath, List`1 fallbackFilePaths)
+   at ShareX.HelpersLib.SettingsBase`1.LoadInternal(String filePath, List`1 fallbackFilePaths)
+   at ShareX.HelpersLib.SettingsBase`1.Load(String filePath, String backupFolder, Boolean fallbackSupport)
+   at ShareX.SettingManager.LoadApplicationConfig(Boolean fallbackSupport)
+   at ShareX.SettingManager.LoadInitialSettings()
+   at ShareX.Program.Run()
+   at ShareX.Program.Main(String[] args)
+
+ShareX 19.0.2
+2026-02-02 19:32:15.896 - ShareX closing. Reason: Unhandled exception.
+2026-02-08 10:24:44.917 - ShareX starting.
+2026-02-08 10:24:44.919 - Version: 19.0.2
+2026-02-08 10:24:44.919 - Build: Release
+2026-02-08 10:24:44.948 - Command line: D:\ShareX\ShareX.dll -silent
+2026-02-08 10:24:44.948 - Personal path: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots
+2026-02-08 10:24:44.948 - Personal path detection method: PersonalPath.cfg file (C:\Users\jrmar\Documents\ShareX\PersonalPath.cfg)
+2026-02-08 10:24:44.949 - Operating system: Windows 10 Pro (64-bit)
+2026-02-08 10:24:44.950 - .NET version: 9.0.12
+2026-02-08 10:24:44.950 - Running as elevated process: False
+2026-02-08 10:24:45.397 - Flags: SilentRun
+2026-02-08 10:24:45.875 - ApplicationConfig load started: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\ApplicationConfig.json
+2026-02-08 10:24:47.402 - ApplicationConfig load failed: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\ApplicationConfig.json:
+System.IO.FileNotFoundException: Could not load file or assembly 'ShareX.MediaLib, Version=19.0.2.0, Culture=neutral, PublicKeyToken=null'. The system cannot find the file specified.
+File name: 'ShareX.MediaLib, Version=19.0.2.0, Culture=neutral, PublicKeyToken=null'
+   at ShareX.TaskSettingsTools..ctor()
+   at ShareX.TaskSettings..ctor()
+   at ShareX.ApplicationConfig..ctor()
+   at CreateShareX.ApplicationConfig()
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateNewObject(JsonReader reader, JsonObjectContract objectContract, JsonProperty containerMember, JsonProperty containerProperty, String id, Boolean& createdFromNonDefaultCreator)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   at Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonSerializer.Deserialize(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonSerializer.Deserialize[T](JsonReader reader)
+   at ShareX.HelpersLib.SettingsBase`1.LoadInternal(String filePath, List`1 fallbackFilePaths)
+2026-02-08 10:24:47.402 - ApplicationConfig file does not exist: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\ApplicationConfig.json.temp
+2026-02-08 10:24:47.421 - ApplicationConfig load started: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\Backup\ApplicationConfig.json
+2026-02-08 10:24:47.460 - ApplicationConfig load failed: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\Backup\ApplicationConfig.json:
+System.IO.FileNotFoundException: Could not load file or assembly 'ShareX.MediaLib, Version=19.0.2.0, Culture=neutral, PublicKeyToken=null'. The system cannot find the file specified.
+File name: 'ShareX.MediaLib, Version=19.0.2.0, Culture=neutral, PublicKeyToken=null'
+   at ShareX.TaskSettingsTools..ctor()
+   at ShareX.TaskSettings..ctor()
+   at ShareX.ApplicationConfig..ctor()
+   at CreateShareX.ApplicationConfig()
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateNewObject(JsonReader reader, JsonObjectContract objectContract, JsonProperty containerMember, JsonProperty containerProperty, String id, Boolean& createdFromNonDefaultCreator)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   at Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonSerializer.Deserialize(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonSerializer.Deserialize[T](JsonReader reader)
+   at ShareX.HelpersLib.SettingsBase`1.LoadInternal(String filePath, List`1 fallbackFilePaths)
+2026-02-08 10:24:47.460 - ApplicationConfig load started: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\Backup\ApplicationConfig-2026-01-W05.json
+2026-02-08 10:24:47.480 - ApplicationConfig load failed: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\Backup\ApplicationConfig-2026-01-W05.json:
+System.IO.FileNotFoundException: Could not load file or assembly 'ShareX.MediaLib, Version=19.0.2.0, Culture=neutral, PublicKeyToken=null'. The system cannot find the file specified.
+File name: 'ShareX.MediaLib, Version=19.0.2.0, Culture=neutral, PublicKeyToken=null'
+   at ShareX.TaskSettingsTools..ctor()
+   at ShareX.TaskSettings..ctor()
+   at ShareX.ApplicationConfig..ctor()
+   at CreateShareX.ApplicationConfig()
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateNewObject(JsonReader reader, JsonObjectContract objectContract, JsonProperty containerMember, JsonProperty containerProperty, String id, Boolean& createdFromNonDefaultCreator)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   at Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonSerializer.Deserialize(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonSerializer.Deserialize[T](JsonReader reader)
+   at ShareX.HelpersLib.SettingsBase`1.LoadInternal(String filePath, List`1 fallbackFilePaths)
+2026-02-08 10:24:47.480 - Loading new ApplicationConfig instance.
+2026-02-08 10:24:47.952 - Unhandled exception:
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation.
+ ---> System.IO.FileNotFoundException: Could not load file or assembly 'ShareX.MediaLib, Version=19.0.2.0, Culture=neutral, PublicKeyToken=null'. The system cannot find the file specified.
+File name: 'ShareX.MediaLib, Version=19.0.2.0, Culture=neutral, PublicKeyToken=null'
+   at ShareX.TaskSettingsTools..ctor()
+   at ShareX.TaskSettings..ctor()
+   at ShareX.ApplicationConfig..ctor()
+   at System.RuntimeType.CreateInstanceOfT()
+   --- End of inner exception stack trace ---
+   at System.RuntimeType.CreateInstanceOfT()
+   at System.Activator.CreateInstance[T]()
+   at ShareX.HelpersLib.SettingsBase`1.LoadInternal(String filePath, List`1 fallbackFilePaths)
+   at ShareX.HelpersLib.SettingsBase`1.LoadInternal(String filePath, List`1 fallbackFilePaths)
+   at ShareX.HelpersLib.SettingsBase`1.LoadInternal(String filePath, List`1 fallbackFilePaths)
+   at ShareX.HelpersLib.SettingsBase`1.LoadInternal(String filePath, List`1 fallbackFilePaths)
+   at ShareX.HelpersLib.SettingsBase`1.Load(String filePath, String backupFolder, Boolean fallbackSupport)
+   at ShareX.SettingManager.LoadApplicationConfig(Boolean fallbackSupport)
+   at ShareX.SettingManager.LoadInitialSettings()
+   at ShareX.Program.Run()
+   at ShareX.Program.Main(String[] args)
+
+ShareX 19.0.2
+2026-02-08 20:49:20.164 - ShareX starting.
+2026-02-08 20:49:20.166 - Version: 19.0.2
+2026-02-08 20:49:20.166 - Build: Release
+2026-02-08 20:49:20.311 - Command line: D:\ShareX\ShareX.dll -silent
+2026-02-08 20:49:20.311 - Personal path: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots
+2026-02-08 20:49:20.311 - Personal path detection method: PersonalPath.cfg file (C:\Users\jrmar\Documents\ShareX\PersonalPath.cfg)
+2026-02-08 20:49:20.311 - Operating system: Windows 10 Pro (64-bit)
+2026-02-08 20:49:20.312 - .NET version: 9.0.12
+2026-02-08 20:49:20.312 - Running as elevated process: False
+2026-02-08 20:49:20.602 - Flags: SilentRun
+2026-02-08 20:49:20.932 - ApplicationConfig load started: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\ApplicationConfig.json
+2026-02-08 20:49:23.872 - ApplicationConfig load failed: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\ApplicationConfig.json:
+System.IO.FileNotFoundException: Could not load file or assembly 'ShareX.MediaLib, Version=19.0.2.0, Culture=neutral, PublicKeyToken=null'. The system cannot find the file specified.
+File name: 'ShareX.MediaLib, Version=19.0.2.0, Culture=neutral, PublicKeyToken=null'
+   at ShareX.TaskSettingsTools..ctor()
+   at ShareX.TaskSettings..ctor()
+   at ShareX.ApplicationConfig..ctor()
+   at CreateShareX.ApplicationConfig()
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateNewObject(JsonReader reader, JsonObjectContract objectContract, JsonProperty containerMember, JsonProperty containerProperty, String id, Boolean& createdFromNonDefaultCreator)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   at Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonSerializer.Deserialize(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonSerializer.Deserialize[T](JsonReader reader)
+   at ShareX.HelpersLib.SettingsBase`1.LoadInternal(String filePath, List`1 fallbackFilePaths)
+2026-02-08 20:49:23.872 - ApplicationConfig file does not exist: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\ApplicationConfig.json.temp
+2026-02-08 20:49:23.901 - ApplicationConfig load started: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\Backup\ApplicationConfig.json
+2026-02-08 20:49:23.956 - ApplicationConfig load failed: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\Backup\ApplicationConfig.json:
+System.IO.FileNotFoundException: Could not load file or assembly 'ShareX.MediaLib, Version=19.0.2.0, Culture=neutral, PublicKeyToken=null'. The system cannot find the file specified.
+File name: 'ShareX.MediaLib, Version=19.0.2.0, Culture=neutral, PublicKeyToken=null'
+   at ShareX.TaskSettingsTools..ctor()
+   at ShareX.TaskSettings..ctor()
+   at ShareX.ApplicationConfig..ctor()
+   at CreateShareX.ApplicationConfig()
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateNewObject(JsonReader reader, JsonObjectContract objectContract, JsonProperty containerMember, JsonProperty containerProperty, String id, Boolean& createdFromNonDefaultCreator)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   at Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonSerializer.Deserialize(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonSerializer.Deserialize[T](JsonReader reader)
+   at ShareX.HelpersLib.SettingsBase`1.LoadInternal(String filePath, List`1 fallbackFilePaths)
+2026-02-08 20:49:23.956 - ApplicationConfig load started: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\Backup\ApplicationConfig-2026-01-W05.json
+2026-02-08 20:49:23.984 - ApplicationConfig load failed: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\Backup\ApplicationConfig-2026-01-W05.json:
+System.IO.FileNotFoundException: Could not load file or assembly 'ShareX.MediaLib, Version=19.0.2.0, Culture=neutral, PublicKeyToken=null'. The system cannot find the file specified.
+File name: 'ShareX.MediaLib, Version=19.0.2.0, Culture=neutral, PublicKeyToken=null'
+   at ShareX.TaskSettingsTools..ctor()
+   at ShareX.TaskSettings..ctor()
+   at ShareX.ApplicationConfig..ctor()
+   at CreateShareX.ApplicationConfig()
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateNewObject(JsonReader reader, JsonObjectContract objectContract, JsonProperty containerMember, JsonProperty containerProperty, String id, Boolean& createdFromNonDefaultCreator)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   at Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonSerializer.Deserialize(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonSerializer.Deserialize[T](JsonReader reader)
+   at ShareX.HelpersLib.SettingsBase`1.LoadInternal(String filePath, List`1 fallbackFilePaths)
+2026-02-08 20:49:23.984 - Loading new ApplicationConfig instance.
+2026-02-08 20:49:24.789 - Unhandled exception:
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation.
+ ---> System.IO.FileNotFoundException: Could not load file or assembly 'ShareX.MediaLib, Version=19.0.2.0, Culture=neutral, PublicKeyToken=null'. The system cannot find the file specified.
+File name: 'ShareX.MediaLib, Version=19.0.2.0, Culture=neutral, PublicKeyToken=null'
+   at ShareX.TaskSettingsTools..ctor()
+   at ShareX.TaskSettings..ctor()
+   at ShareX.ApplicationConfig..ctor()
+   at System.RuntimeType.CreateInstanceOfT()
+   --- End of inner exception stack trace ---
+   at System.RuntimeType.CreateInstanceOfT()
+   at System.Activator.CreateInstance[T]()
+   at ShareX.HelpersLib.SettingsBase`1.LoadInternal(String filePath, List`1 fallbackFilePaths)
+   at ShareX.HelpersLib.SettingsBase`1.LoadInternal(String filePath, List`1 fallbackFilePaths)
+   at ShareX.HelpersLib.SettingsBase`1.LoadInternal(String filePath, List`1 fallbackFilePaths)
+   at ShareX.HelpersLib.SettingsBase`1.LoadInternal(String filePath, List`1 fallbackFilePaths)
+   at ShareX.HelpersLib.SettingsBase`1.Load(String filePath, String backupFolder, Boolean fallbackSupport)
+   at ShareX.SettingManager.LoadApplicationConfig(Boolean fallbackSupport)
+   at ShareX.SettingManager.LoadInitialSettings()
+   at ShareX.Program.Run()
+   at ShareX.Program.Main(String[] args)
+
+ShareX 19.0.2
+2026-02-09 18:25:04.322 - ShareX starting.
+2026-02-09 18:25:04.323 - Version: 19.0.2
+2026-02-09 18:25:04.323 - Build: Release
+2026-02-09 18:25:04.338 - Command line: D:\ShareX\ShareX.dll -silent
+2026-02-09 18:25:04.338 - Personal path: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots
+2026-02-09 18:25:04.338 - Personal path detection method: PersonalPath.cfg file (C:\Users\jrmar\Documents\ShareX\PersonalPath.cfg)
+2026-02-09 18:25:04.339 - Operating system: Windows 10 Pro (64-bit)
+2026-02-09 18:25:04.339 - .NET version: 9.0.12
+2026-02-09 18:25:04.339 - Running as elevated process: False
+2026-02-09 18:25:04.628 - Flags: SilentRun
+2026-02-09 18:25:04.861 - ApplicationConfig load started: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\ApplicationConfig.json
+2026-02-09 18:25:06.234 - ApplicationConfig load failed: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\ApplicationConfig.json:
+System.IO.FileNotFoundException: Could not load file or assembly 'ShareX.MediaLib, Version=19.0.2.0, Culture=neutral, PublicKeyToken=null'. The system cannot find the file specified.
+File name: 'ShareX.MediaLib, Version=19.0.2.0, Culture=neutral, PublicKeyToken=null'
+   at ShareX.TaskSettingsTools..ctor()
+   at ShareX.TaskSettings..ctor()
+   at ShareX.ApplicationConfig..ctor()
+   at CreateShareX.ApplicationConfig()
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateNewObject(JsonReader reader, JsonObjectContract objectContract, JsonProperty containerMember, JsonProperty containerProperty, String id, Boolean& createdFromNonDefaultCreator)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   at Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonSerializer.Deserialize(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonSerializer.Deserialize[T](JsonReader reader)
+   at ShareX.HelpersLib.SettingsBase`1.LoadInternal(String filePath, List`1 fallbackFilePaths)
+2026-02-09 18:25:06.234 - ApplicationConfig file does not exist: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\ApplicationConfig.json.temp
+2026-02-09 18:25:06.262 - ApplicationConfig load started: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\Backup\ApplicationConfig.json
+2026-02-09 18:25:06.342 - ApplicationConfig load failed: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\Backup\ApplicationConfig.json:
+System.IO.FileNotFoundException: Could not load file or assembly 'ShareX.MediaLib, Version=19.0.2.0, Culture=neutral, PublicKeyToken=null'. The system cannot find the file specified.
+File name: 'ShareX.MediaLib, Version=19.0.2.0, Culture=neutral, PublicKeyToken=null'
+   at ShareX.TaskSettingsTools..ctor()
+   at ShareX.TaskSettings..ctor()
+   at ShareX.ApplicationConfig..ctor()
+   at CreateShareX.ApplicationConfig()
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateNewObject(JsonReader reader, JsonObjectContract objectContract, JsonProperty containerMember, JsonProperty containerProperty, String id, Boolean& createdFromNonDefaultCreator)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   at Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonSerializer.Deserialize(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonSerializer.Deserialize[T](JsonReader reader)
+   at ShareX.HelpersLib.SettingsBase`1.LoadInternal(String filePath, List`1 fallbackFilePaths)
+2026-02-09 18:25:06.342 - ApplicationConfig load started: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\Backup\ApplicationConfig-2026-01-W05.json
+2026-02-09 18:25:06.362 - ApplicationConfig load failed: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\Backup\ApplicationConfig-2026-01-W05.json:
+System.IO.FileNotFoundException: Could not load file or assembly 'ShareX.MediaLib, Version=19.0.2.0, Culture=neutral, PublicKeyToken=null'. The system cannot find the file specified.
+File name: 'ShareX.MediaLib, Version=19.0.2.0, Culture=neutral, PublicKeyToken=null'
+   at ShareX.TaskSettingsTools..ctor()
+   at ShareX.TaskSettings..ctor()
+   at ShareX.ApplicationConfig..ctor()
+   at CreateShareX.ApplicationConfig()
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateNewObject(JsonReader reader, JsonObjectContract objectContract, JsonProperty containerMember, JsonProperty containerProperty, String id, Boolean& createdFromNonDefaultCreator)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   at Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonSerializer.Deserialize(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonSerializer.Deserialize[T](JsonReader reader)
+   at ShareX.HelpersLib.SettingsBase`1.LoadInternal(String filePath, List`1 fallbackFilePaths)
+2026-02-09 18:25:06.362 - Loading new ApplicationConfig instance.
+2026-02-09 18:25:06.910 - Unhandled exception:
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation.
+ ---> System.IO.FileNotFoundException: Could not load file or assembly 'ShareX.MediaLib, Version=19.0.2.0, Culture=neutral, PublicKeyToken=null'. The system cannot find the file specified.
+File name: 'ShareX.MediaLib, Version=19.0.2.0, Culture=neutral, PublicKeyToken=null'
+   at ShareX.TaskSettingsTools..ctor()
+   at ShareX.TaskSettings..ctor()
+   at ShareX.ApplicationConfig..ctor()
+   at System.RuntimeType.CreateInstanceOfT()
+   --- End of inner exception stack trace ---
+   at System.RuntimeType.CreateInstanceOfT()
+   at System.Activator.CreateInstance[T]()
+   at ShareX.HelpersLib.SettingsBase`1.LoadInternal(String filePath, List`1 fallbackFilePaths)
+   at ShareX.HelpersLib.SettingsBase`1.LoadInternal(String filePath, List`1 fallbackFilePaths)
+   at ShareX.HelpersLib.SettingsBase`1.LoadInternal(String filePath, List`1 fallbackFilePaths)
+   at ShareX.HelpersLib.SettingsBase`1.LoadInternal(String filePath, List`1 fallbackFilePaths)
+   at ShareX.HelpersLib.SettingsBase`1.Load(String filePath, String backupFolder, Boolean fallbackSupport)
+   at ShareX.SettingManager.LoadApplicationConfig(Boolean fallbackSupport)
+   at ShareX.SettingManager.LoadInitialSettings()
+   at ShareX.Program.Run()
+   at ShareX.Program.Main(String[] args)
+
+ShareX 19.0.2
+2026-02-13 23:38:58.407 - ShareX starting.
+2026-02-13 23:38:58.409 - Version: 19.0.2
+2026-02-13 23:38:58.409 - Build: Release
+2026-02-13 23:38:58.456 - Command line: D:\ShareX\ShareX.dll -silent
+2026-02-13 23:38:58.457 - Personal path: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots
+2026-02-13 23:38:58.457 - Personal path detection method: PersonalPath.cfg file (C:\Users\jrmar\Documents\ShareX\PersonalPath.cfg)
+2026-02-13 23:38:58.457 - Operating system: Windows 10 Pro (64-bit)
+2026-02-13 23:38:58.458 - .NET version: 9.0.12
+2026-02-13 23:38:58.458 - Running as elevated process: False
+2026-02-13 23:38:58.759 - Flags: SilentRun
+2026-02-13 23:38:59.080 - ApplicationConfig load started: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\ApplicationConfig.json
+2026-02-13 23:39:00.717 - ApplicationConfig load failed: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\ApplicationConfig.json:
+System.IO.FileNotFoundException: Could not load file or assembly 'ShareX.MediaLib, Version=19.0.2.0, Culture=neutral, PublicKeyToken=null'. The system cannot find the file specified.
+File name: 'ShareX.MediaLib, Version=19.0.2.0, Culture=neutral, PublicKeyToken=null'
+   at ShareX.TaskSettingsTools..ctor()
+   at ShareX.TaskSettings..ctor()
+   at ShareX.ApplicationConfig..ctor()
+   at CreateShareX.ApplicationConfig()
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateNewObject(JsonReader reader, JsonObjectContract objectContract, JsonProperty containerMember, JsonProperty containerProperty, String id, Boolean& createdFromNonDefaultCreator)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   at Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonSerializer.Deserialize(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonSerializer.Deserialize[T](JsonReader reader)
+   at ShareX.HelpersLib.SettingsBase`1.LoadInternal(String filePath, List`1 fallbackFilePaths)
+2026-02-13 23:39:00.717 - ApplicationConfig file does not exist: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\ApplicationConfig.json.temp
+2026-02-13 23:39:01.002 - ApplicationConfig load started: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\Backup\ApplicationConfig.json
+2026-02-13 23:39:01.030 - ApplicationConfig load failed: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\Backup\ApplicationConfig.json:
+System.IO.FileNotFoundException: Could not load file or assembly 'ShareX.MediaLib, Version=19.0.2.0, Culture=neutral, PublicKeyToken=null'. The system cannot find the file specified.
+File name: 'ShareX.MediaLib, Version=19.0.2.0, Culture=neutral, PublicKeyToken=null'
+   at ShareX.TaskSettingsTools..ctor()
+   at ShareX.TaskSettings..ctor()
+   at ShareX.ApplicationConfig..ctor()
+   at CreateShareX.ApplicationConfig()
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateNewObject(JsonReader reader, JsonObjectContract objectContract, JsonProperty containerMember, JsonProperty containerProperty, String id, Boolean& createdFromNonDefaultCreator)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   at Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonSerializer.Deserialize(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonSerializer.Deserialize[T](JsonReader reader)
+   at ShareX.HelpersLib.SettingsBase`1.LoadInternal(String filePath, List`1 fallbackFilePaths)
+2026-02-13 23:39:01.030 - ApplicationConfig load started: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\Backup\ApplicationConfig-2026-01-W05.json
+2026-02-13 23:39:01.086 - ApplicationConfig load failed: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\Backup\ApplicationConfig-2026-01-W05.json:
+System.IO.FileNotFoundException: Could not load file or assembly 'ShareX.MediaLib, Version=19.0.2.0, Culture=neutral, PublicKeyToken=null'. The system cannot find the file specified.
+File name: 'ShareX.MediaLib, Version=19.0.2.0, Culture=neutral, PublicKeyToken=null'
+   at ShareX.TaskSettingsTools..ctor()
+   at ShareX.TaskSettings..ctor()
+   at ShareX.ApplicationConfig..ctor()
+   at CreateShareX.ApplicationConfig()
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateNewObject(JsonReader reader, JsonObjectContract objectContract, JsonProperty containerMember, JsonProperty containerProperty, String id, Boolean& createdFromNonDefaultCreator)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   at Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonSerializer.Deserialize(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonSerializer.Deserialize[T](JsonReader reader)
+   at ShareX.HelpersLib.SettingsBase`1.LoadInternal(String filePath, List`1 fallbackFilePaths)
+2026-02-13 23:39:01.086 - Loading new ApplicationConfig instance.
+2026-02-13 23:39:01.992 - Unhandled exception:
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation.
+ ---> System.IO.FileNotFoundException: Could not load file or assembly 'ShareX.MediaLib, Version=19.0.2.0, Culture=neutral, PublicKeyToken=null'. The system cannot find the file specified.
+File name: 'ShareX.MediaLib, Version=19.0.2.0, Culture=neutral, PublicKeyToken=null'
+   at ShareX.TaskSettingsTools..ctor()
+   at ShareX.TaskSettings..ctor()
+   at ShareX.ApplicationConfig..ctor()
+   at System.RuntimeType.CreateInstanceOfT()
+   --- End of inner exception stack trace ---
+   at System.RuntimeType.CreateInstanceOfT()
+   at System.Activator.CreateInstance[T]()
+   at ShareX.HelpersLib.SettingsBase`1.LoadInternal(String filePath, List`1 fallbackFilePaths)
+   at ShareX.HelpersLib.SettingsBase`1.LoadInternal(String filePath, List`1 fallbackFilePaths)
+   at ShareX.HelpersLib.SettingsBase`1.LoadInternal(String filePath, List`1 fallbackFilePaths)
+   at ShareX.HelpersLib.SettingsBase`1.LoadInternal(String filePath, List`1 fallbackFilePaths)
+   at ShareX.HelpersLib.SettingsBase`1.Load(String filePath, String backupFolder, Boolean fallbackSupport)
+   at ShareX.SettingManager.LoadApplicationConfig(Boolean fallbackSupport)
+   at ShareX.SettingManager.LoadInitialSettings()
+   at ShareX.Program.Run()
+   at ShareX.Program.Main(String[] args)
+
+ShareX 19.0.2
+2026-02-13 23:42:20.040 - ShareX starting.
+2026-02-13 23:42:20.042 - Version: 19.0.2
+2026-02-13 23:42:20.042 - Build: Release
+2026-02-13 23:42:20.073 - Command line: D:\ShareX\ShareX.dll -silent
+2026-02-13 23:42:20.074 - Personal path: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots
+2026-02-13 23:42:20.074 - Personal path detection method: PersonalPath.cfg file (C:\Users\jrmar\Documents\ShareX\PersonalPath.cfg)
+2026-02-13 23:42:20.074 - Operating system: Windows 10 Pro (64-bit)
+2026-02-13 23:42:20.075 - .NET version: 9.0.12
+2026-02-13 23:42:20.075 - Running as elevated process: False
+2026-02-13 23:42:20.417 - Flags: SilentRun
+2026-02-13 23:42:20.483 - ApplicationConfig load started: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\ApplicationConfig.json
+2026-02-13 23:42:21.206 - ApplicationConfig load failed: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\ApplicationConfig.json:
+System.IO.FileNotFoundException: Could not load file or assembly 'ShareX.MediaLib, Version=19.0.2.0, Culture=neutral, PublicKeyToken=null'. The system cannot find the file specified.
+File name: 'ShareX.MediaLib, Version=19.0.2.0, Culture=neutral, PublicKeyToken=null'
+   at ShareX.TaskSettingsTools..ctor()
+   at ShareX.TaskSettings..ctor()
+   at ShareX.ApplicationConfig..ctor()
+   at CreateShareX.ApplicationConfig()
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateNewObject(JsonReader reader, JsonObjectContract objectContract, JsonProperty containerMember, JsonProperty containerProperty, String id, Boolean& createdFromNonDefaultCreator)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   at Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonSerializer.Deserialize(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonSerializer.Deserialize[T](JsonReader reader)
+   at ShareX.HelpersLib.SettingsBase`1.LoadInternal(String filePath, List`1 fallbackFilePaths)
+2026-02-13 23:42:21.206 - ApplicationConfig file does not exist: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\ApplicationConfig.json.temp
+2026-02-13 23:42:21.236 - ApplicationConfig load started: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\Backup\ApplicationConfig.json
+2026-02-13 23:42:21.260 - ApplicationConfig load failed: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\Backup\ApplicationConfig.json:
+System.IO.FileNotFoundException: Could not load file or assembly 'ShareX.MediaLib, Version=19.0.2.0, Culture=neutral, PublicKeyToken=null'. The system cannot find the file specified.
+File name: 'ShareX.MediaLib, Version=19.0.2.0, Culture=neutral, PublicKeyToken=null'
+   at ShareX.TaskSettingsTools..ctor()
+   at ShareX.TaskSettings..ctor()
+   at ShareX.ApplicationConfig..ctor()
+   at CreateShareX.ApplicationConfig()
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateNewObject(JsonReader reader, JsonObjectContract objectContract, JsonProperty containerMember, JsonProperty containerProperty, String id, Boolean& createdFromNonDefaultCreator)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   at Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonSerializer.Deserialize(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonSerializer.Deserialize[T](JsonReader reader)
+   at ShareX.HelpersLib.SettingsBase`1.LoadInternal(String filePath, List`1 fallbackFilePaths)
+2026-02-13 23:42:21.260 - ApplicationConfig load started: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\Backup\ApplicationConfig-2026-01-W05.json
+2026-02-13 23:42:21.278 - ApplicationConfig load failed: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\Backup\ApplicationConfig-2026-01-W05.json:
+System.IO.FileNotFoundException: Could not load file or assembly 'ShareX.MediaLib, Version=19.0.2.0, Culture=neutral, PublicKeyToken=null'. The system cannot find the file specified.
+File name: 'ShareX.MediaLib, Version=19.0.2.0, Culture=neutral, PublicKeyToken=null'
+   at ShareX.TaskSettingsTools..ctor()
+   at ShareX.TaskSettings..ctor()
+   at ShareX.ApplicationConfig..ctor()
+   at CreateShareX.ApplicationConfig()
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateNewObject(JsonReader reader, JsonObjectContract objectContract, JsonProperty containerMember, JsonProperty containerProperty, String id, Boolean& createdFromNonDefaultCreator)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   at Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonSerializer.Deserialize(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonSerializer.Deserialize[T](JsonReader reader)
+   at ShareX.HelpersLib.SettingsBase`1.LoadInternal(String filePath, List`1 fallbackFilePaths)
+2026-02-13 23:42:21.278 - Loading new ApplicationConfig instance.
+2026-02-13 23:42:21.778 - Unhandled exception:
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation.
+ ---> System.IO.FileNotFoundException: Could not load file or assembly 'ShareX.MediaLib, Version=19.0.2.0, Culture=neutral, PublicKeyToken=null'. The system cannot find the file specified.
+File name: 'ShareX.MediaLib, Version=19.0.2.0, Culture=neutral, PublicKeyToken=null'
+   at ShareX.TaskSettingsTools..ctor()
+   at ShareX.TaskSettings..ctor()
+   at ShareX.ApplicationConfig..ctor()
+   at System.RuntimeType.CreateInstanceOfT()
+   --- End of inner exception stack trace ---
+   at System.RuntimeType.CreateInstanceOfT()
+   at System.Activator.CreateInstance[T]()
+   at ShareX.HelpersLib.SettingsBase`1.LoadInternal(String filePath, List`1 fallbackFilePaths)
+   at ShareX.HelpersLib.SettingsBase`1.LoadInternal(String filePath, List`1 fallbackFilePaths)
+   at ShareX.HelpersLib.SettingsBase`1.LoadInternal(String filePath, List`1 fallbackFilePaths)
+   at ShareX.HelpersLib.SettingsBase`1.LoadInternal(String filePath, List`1 fallbackFilePaths)
+   at ShareX.HelpersLib.SettingsBase`1.Load(String filePath, String backupFolder, Boolean fallbackSupport)
+   at ShareX.SettingManager.LoadApplicationConfig(Boolean fallbackSupport)
+   at ShareX.SettingManager.LoadInitialSettings()
+   at ShareX.Program.Run()
+   at ShareX.Program.Main(String[] args)
+
+ShareX 19.0.2
+2026-02-13 23:51:04.724 - ShareX starting.
+2026-02-13 23:51:04.726 - Version: 19.0.2
+2026-02-13 23:51:04.726 - Build: Release
+2026-02-13 23:51:04.758 - Command line: D:\ShareX\ShareX.dll -silent
+2026-02-13 23:51:04.758 - Personal path: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots
+2026-02-13 23:51:04.758 - Personal path detection method: PersonalPath.cfg file (C:\Users\jrmar\Documents\ShareX\PersonalPath.cfg)
+2026-02-13 23:51:04.758 - Operating system: Windows 10 Pro (64-bit)
+2026-02-13 23:51:04.759 - .NET version: 9.0.12
+2026-02-13 23:51:04.759 - Running as elevated process: False
+2026-02-13 23:51:04.959 - Flags: SilentRun
+2026-02-13 23:51:05.001 - ApplicationConfig load started: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\ApplicationConfig.json
+2026-02-13 23:51:05.757 - ApplicationConfig load failed: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\ApplicationConfig.json:
+System.IO.FileNotFoundException: Could not load file or assembly 'ShareX.MediaLib, Version=19.0.2.0, Culture=neutral, PublicKeyToken=null'. The system cannot find the file specified.
+File name: 'ShareX.MediaLib, Version=19.0.2.0, Culture=neutral, PublicKeyToken=null'
+   at ShareX.TaskSettingsTools..ctor()
+   at ShareX.TaskSettings..ctor()
+   at ShareX.ApplicationConfig..ctor()
+   at CreateShareX.ApplicationConfig()
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateNewObject(JsonReader reader, JsonObjectContract objectContract, JsonProperty containerMember, JsonProperty containerProperty, String id, Boolean& createdFromNonDefaultCreator)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   at Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonSerializer.Deserialize(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonSerializer.Deserialize[T](JsonReader reader)
+   at ShareX.HelpersLib.SettingsBase`1.LoadInternal(String filePath, List`1 fallbackFilePaths)
+2026-02-13 23:51:05.758 - ApplicationConfig file does not exist: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\ApplicationConfig.json.temp
+2026-02-13 23:51:05.762 - ApplicationConfig load started: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\Backup\ApplicationConfig.json
+2026-02-13 23:51:05.824 - ApplicationConfig load failed: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\Backup\ApplicationConfig.json:
+System.IO.FileNotFoundException: Could not load file or assembly 'ShareX.MediaLib, Version=19.0.2.0, Culture=neutral, PublicKeyToken=null'. The system cannot find the file specified.
+File name: 'ShareX.MediaLib, Version=19.0.2.0, Culture=neutral, PublicKeyToken=null'
+   at ShareX.TaskSettingsTools..ctor()
+   at ShareX.TaskSettings..ctor()
+   at ShareX.ApplicationConfig..ctor()
+   at CreateShareX.ApplicationConfig()
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateNewObject(JsonReader reader, JsonObjectContract objectContract, JsonProperty containerMember, JsonProperty containerProperty, String id, Boolean& createdFromNonDefaultCreator)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   at Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonSerializer.Deserialize(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonSerializer.Deserialize[T](JsonReader reader)
+   at ShareX.HelpersLib.SettingsBase`1.LoadInternal(String filePath, List`1 fallbackFilePaths)
+2026-02-13 23:51:05.825 - ApplicationConfig load started: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\Backup\ApplicationConfig-2026-01-W05.json
+2026-02-13 23:51:05.845 - ApplicationConfig load failed: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\Backup\ApplicationConfig-2026-01-W05.json:
+System.IO.FileNotFoundException: Could not load file or assembly 'ShareX.MediaLib, Version=19.0.2.0, Culture=neutral, PublicKeyToken=null'. The system cannot find the file specified.
+File name: 'ShareX.MediaLib, Version=19.0.2.0, Culture=neutral, PublicKeyToken=null'
+   at ShareX.TaskSettingsTools..ctor()
+   at ShareX.TaskSettings..ctor()
+   at ShareX.ApplicationConfig..ctor()
+   at CreateShareX.ApplicationConfig()
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateNewObject(JsonReader reader, JsonObjectContract objectContract, JsonProperty containerMember, JsonProperty containerProperty, String id, Boolean& createdFromNonDefaultCreator)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   at Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonSerializer.Deserialize(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonSerializer.Deserialize[T](JsonReader reader)
+   at ShareX.HelpersLib.SettingsBase`1.LoadInternal(String filePath, List`1 fallbackFilePaths)
+2026-02-13 23:51:05.845 - Loading new ApplicationConfig instance.
+2026-02-13 23:51:06.263 - Unhandled exception:
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation.
+ ---> System.IO.FileNotFoundException: Could not load file or assembly 'ShareX.MediaLib, Version=19.0.2.0, Culture=neutral, PublicKeyToken=null'. The system cannot find the file specified.
+File name: 'ShareX.MediaLib, Version=19.0.2.0, Culture=neutral, PublicKeyToken=null'
+   at ShareX.TaskSettingsTools..ctor()
+   at ShareX.TaskSettings..ctor()
+   at ShareX.ApplicationConfig..ctor()
+   at System.RuntimeType.CreateInstanceOfT()
+   --- End of inner exception stack trace ---
+   at System.RuntimeType.CreateInstanceOfT()
+   at System.Activator.CreateInstance[T]()
+   at ShareX.HelpersLib.SettingsBase`1.LoadInternal(String filePath, List`1 fallbackFilePaths)
+   at ShareX.HelpersLib.SettingsBase`1.LoadInternal(String filePath, List`1 fallbackFilePaths)
+   at ShareX.HelpersLib.SettingsBase`1.LoadInternal(String filePath, List`1 fallbackFilePaths)
+   at ShareX.HelpersLib.SettingsBase`1.LoadInternal(String filePath, List`1 fallbackFilePaths)
+   at ShareX.HelpersLib.SettingsBase`1.Load(String filePath, String backupFolder, Boolean fallbackSupport)
+   at ShareX.SettingManager.LoadApplicationConfig(Boolean fallbackSupport)
+   at ShareX.SettingManager.LoadInitialSettings()
+   at ShareX.Program.Run()
+   at ShareX.Program.Main(String[] args)
+
+ShareX 19.0.2
+2026-02-14 17:32:25.800 - ShareX starting.
+2026-02-14 17:32:25.808 - Version: 19.0.2
+2026-02-14 17:32:25.808 - Build: Release
+2026-02-14 17:32:25.808 - Command line: D:\ShareX\ShareX.dll
+2026-02-14 17:32:25.809 - Personal path: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots
+2026-02-14 17:32:25.809 - Personal path detection method: PersonalPath.cfg file (C:\Users\jrmar\Documents\ShareX\PersonalPath.cfg)
+2026-02-14 17:32:25.809 - Operating system: Windows 10 Pro (64-bit)
+2026-02-14 17:32:25.810 - .NET version: 9.0.12
+2026-02-14 17:32:25.810 - Running as elevated process: False
+2026-02-14 17:32:25.928 - ApplicationConfig load started: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\ApplicationConfig.json
+2026-02-14 17:32:26.423 - ApplicationConfig load failed: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\ApplicationConfig.json:
+System.IO.FileNotFoundException: Could not load file or assembly 'ShareX.MediaLib, Version=19.0.2.0, Culture=neutral, PublicKeyToken=null'. The system cannot find the file specified.
+File name: 'ShareX.MediaLib, Version=19.0.2.0, Culture=neutral, PublicKeyToken=null'
+   at ShareX.TaskSettingsTools..ctor()
+   at ShareX.TaskSettings..ctor()
+   at ShareX.ApplicationConfig..ctor()
+   at CreateShareX.ApplicationConfig()
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateNewObject(JsonReader reader, JsonObjectContract objectContract, JsonProperty containerMember, JsonProperty containerProperty, String id, Boolean& createdFromNonDefaultCreator)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   at Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonSerializer.Deserialize(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonSerializer.Deserialize[T](JsonReader reader)
+   at ShareX.HelpersLib.SettingsBase`1.LoadInternal(String filePath, List`1 fallbackFilePaths)
+2026-02-14 17:32:26.423 - ApplicationConfig file does not exist: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\ApplicationConfig.json.temp
+2026-02-14 17:32:26.423 - ApplicationConfig load started: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\Backup\ApplicationConfig.json
+2026-02-14 17:32:26.427 - ApplicationConfig load failed: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\Backup\ApplicationConfig.json:
+System.IO.FileNotFoundException: Could not load file or assembly 'ShareX.MediaLib, Version=19.0.2.0, Culture=neutral, PublicKeyToken=null'. The system cannot find the file specified.
+File name: 'ShareX.MediaLib, Version=19.0.2.0, Culture=neutral, PublicKeyToken=null'
+   at ShareX.TaskSettingsTools..ctor()
+   at ShareX.TaskSettings..ctor()
+   at ShareX.ApplicationConfig..ctor()
+   at CreateShareX.ApplicationConfig()
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateNewObject(JsonReader reader, JsonObjectContract objectContract, JsonProperty containerMember, JsonProperty containerProperty, String id, Boolean& createdFromNonDefaultCreator)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   at Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonSerializer.Deserialize(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonSerializer.Deserialize[T](JsonReader reader)
+   at ShareX.HelpersLib.SettingsBase`1.LoadInternal(String filePath, List`1 fallbackFilePaths)
+2026-02-14 17:32:26.427 - ApplicationConfig load started: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\Backup\ApplicationConfig-2026-01-W05.json
+2026-02-14 17:32:26.429 - ApplicationConfig load failed: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\Backup\ApplicationConfig-2026-01-W05.json:
+System.IO.FileNotFoundException: Could not load file or assembly 'ShareX.MediaLib, Version=19.0.2.0, Culture=neutral, PublicKeyToken=null'. The system cannot find the file specified.
+File name: 'ShareX.MediaLib, Version=19.0.2.0, Culture=neutral, PublicKeyToken=null'
+   at ShareX.TaskSettingsTools..ctor()
+   at ShareX.TaskSettings..ctor()
+   at ShareX.ApplicationConfig..ctor()
+   at CreateShareX.ApplicationConfig()
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateNewObject(JsonReader reader, JsonObjectContract objectContract, JsonProperty containerMember, JsonProperty containerProperty, String id, Boolean& createdFromNonDefaultCreator)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   at Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonSerializer.Deserialize(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonSerializer.Deserialize[T](JsonReader reader)
+   at ShareX.HelpersLib.SettingsBase`1.LoadInternal(String filePath, List`1 fallbackFilePaths)
+2026-02-14 17:32:26.429 - Loading new ApplicationConfig instance.
+2026-02-14 17:32:26.558 - Unhandled exception:
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation.
+ ---> System.IO.FileNotFoundException: Could not load file or assembly 'ShareX.MediaLib, Version=19.0.2.0, Culture=neutral, PublicKeyToken=null'. The system cannot find the file specified.
+File name: 'ShareX.MediaLib, Version=19.0.2.0, Culture=neutral, PublicKeyToken=null'
+   at ShareX.TaskSettingsTools..ctor()
+   at ShareX.TaskSettings..ctor()
+   at ShareX.ApplicationConfig..ctor()
+   at System.RuntimeType.CreateInstanceOfT()
+   --- End of inner exception stack trace ---
+   at System.RuntimeType.CreateInstanceOfT()
+   at System.Activator.CreateInstance[T]()
+   at ShareX.HelpersLib.SettingsBase`1.LoadInternal(String filePath, List`1 fallbackFilePaths)
+   at ShareX.HelpersLib.SettingsBase`1.LoadInternal(String filePath, List`1 fallbackFilePaths)
+   at ShareX.HelpersLib.SettingsBase`1.LoadInternal(String filePath, List`1 fallbackFilePaths)
+   at ShareX.HelpersLib.SettingsBase`1.LoadInternal(String filePath, List`1 fallbackFilePaths)
+   at ShareX.HelpersLib.SettingsBase`1.Load(String filePath, String backupFolder, Boolean fallbackSupport)
+   at ShareX.SettingManager.LoadApplicationConfig(Boolean fallbackSupport)
+   at ShareX.SettingManager.LoadInitialSettings()
+   at ShareX.Program.Run()
+   at ShareX.Program.Main(String[] args)
+
+ShareX 19.0.2
+2026-02-14 17:32:39.340 - ShareX continue.
+2026-02-14 17:32:44.798 - ShareX starting.
+2026-02-14 17:32:44.799 - Version: 19.0.2
+2026-02-14 17:32:44.800 - Build: Release
+2026-02-14 17:32:44.800 - Command line: D:\ShareX\ShareX.dll
+2026-02-14 17:32:44.800 - Personal path: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots
+2026-02-14 17:32:44.800 - Personal path detection method: PersonalPath.cfg file (C:\Users\jrmar\Documents\ShareX\PersonalPath.cfg)
+2026-02-14 17:32:44.800 - Operating system: Windows 10 Pro (64-bit)
+2026-02-14 17:32:44.801 - .NET version: 9.0.12
+2026-02-14 17:32:44.801 - Running as elevated process: False
+2026-02-14 17:32:44.815 - ApplicationConfig load started: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\ApplicationConfig.json
+2026-02-14 17:32:44.883 - ApplicationConfig load failed: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\ApplicationConfig.json:
+System.IO.FileNotFoundException: Could not load file or assembly 'ShareX.MediaLib, Version=19.0.2.0, Culture=neutral, PublicKeyToken=null'. The system cannot find the file specified.
+File name: 'ShareX.MediaLib, Version=19.0.2.0, Culture=neutral, PublicKeyToken=null'
+   at ShareX.TaskSettingsTools..ctor()
+   at ShareX.TaskSettings..ctor()
+   at ShareX.ApplicationConfig..ctor()
+   at CreateShareX.ApplicationConfig()
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateNewObject(JsonReader reader, JsonObjectContract objectContract, JsonProperty containerMember, JsonProperty containerProperty, String id, Boolean& createdFromNonDefaultCreator)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   at Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonSerializer.Deserialize(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonSerializer.Deserialize[T](JsonReader reader)
+   at ShareX.HelpersLib.SettingsBase`1.LoadInternal(String filePath, List`1 fallbackFilePaths)
+2026-02-14 17:32:44.883 - ApplicationConfig file does not exist: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\ApplicationConfig.json.temp
+2026-02-14 17:32:44.883 - ApplicationConfig load started: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\Backup\ApplicationConfig.json
+2026-02-14 17:32:44.886 - ApplicationConfig load failed: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\Backup\ApplicationConfig.json:
+System.IO.FileNotFoundException: Could not load file or assembly 'ShareX.MediaLib, Version=19.0.2.0, Culture=neutral, PublicKeyToken=null'. The system cannot find the file specified.
+File name: 'ShareX.MediaLib, Version=19.0.2.0, Culture=neutral, PublicKeyToken=null'
+   at ShareX.TaskSettingsTools..ctor()
+   at ShareX.TaskSettings..ctor()
+   at ShareX.ApplicationConfig..ctor()
+   at CreateShareX.ApplicationConfig()
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateNewObject(JsonReader reader, JsonObjectContract objectContract, JsonProperty containerMember, JsonProperty containerProperty, String id, Boolean& createdFromNonDefaultCreator)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   at Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonSerializer.Deserialize(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonSerializer.Deserialize[T](JsonReader reader)
+   at ShareX.HelpersLib.SettingsBase`1.LoadInternal(String filePath, List`1 fallbackFilePaths)
+2026-02-14 17:32:44.886 - ApplicationConfig load started: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\Backup\ApplicationConfig-2026-01-W05.json
+2026-02-14 17:32:44.888 - ApplicationConfig load failed: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\Backup\ApplicationConfig-2026-01-W05.json:
+System.IO.FileNotFoundException: Could not load file or assembly 'ShareX.MediaLib, Version=19.0.2.0, Culture=neutral, PublicKeyToken=null'. The system cannot find the file specified.
+File name: 'ShareX.MediaLib, Version=19.0.2.0, Culture=neutral, PublicKeyToken=null'
+   at ShareX.TaskSettingsTools..ctor()
+   at ShareX.TaskSettings..ctor()
+   at ShareX.ApplicationConfig..ctor()
+   at CreateShareX.ApplicationConfig()
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateNewObject(JsonReader reader, JsonObjectContract objectContract, JsonProperty containerMember, JsonProperty containerProperty, String id, Boolean& createdFromNonDefaultCreator)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   at Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonSerializer.Deserialize(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonSerializer.Deserialize[T](JsonReader reader)
+   at ShareX.HelpersLib.SettingsBase`1.LoadInternal(String filePath, List`1 fallbackFilePaths)
+2026-02-14 17:32:44.888 - Loading new ApplicationConfig instance.
+2026-02-14 17:32:44.925 - Unhandled exception:
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation.
+ ---> System.IO.FileNotFoundException: Could not load file or assembly 'ShareX.MediaLib, Version=19.0.2.0, Culture=neutral, PublicKeyToken=null'. The system cannot find the file specified.
+File name: 'ShareX.MediaLib, Version=19.0.2.0, Culture=neutral, PublicKeyToken=null'
+   at ShareX.TaskSettingsTools..ctor()
+   at ShareX.TaskSettings..ctor()
+   at ShareX.ApplicationConfig..ctor()
+   at System.RuntimeType.CreateInstanceOfT()
+   --- End of inner exception stack trace ---
+   at System.RuntimeType.CreateInstanceOfT()
+   at System.Activator.CreateInstance[T]()
+   at ShareX.HelpersLib.SettingsBase`1.LoadInternal(String filePath, List`1 fallbackFilePaths)
+   at ShareX.HelpersLib.SettingsBase`1.LoadInternal(String filePath, List`1 fallbackFilePaths)
+   at ShareX.HelpersLib.SettingsBase`1.LoadInternal(String filePath, List`1 fallbackFilePaths)
+   at ShareX.HelpersLib.SettingsBase`1.LoadInternal(String filePath, List`1 fallbackFilePaths)
+   at ShareX.HelpersLib.SettingsBase`1.Load(String filePath, String backupFolder, Boolean fallbackSupport)
+   at ShareX.SettingManager.LoadApplicationConfig(Boolean fallbackSupport)
+   at ShareX.SettingManager.LoadInitialSettings()
+   at ShareX.Program.Run()
+   at ShareX.Program.Main(String[] args)
+
+ShareX 19.0.2
+2026-02-14 17:33:23.840 - ShareX closing. Reason: Unhandled exception.
+2026-02-14 17:33:25.128 - ShareX closing. Reason: Unhandled exception.
+2026-02-14 17:33:25.656 - ShareX closing. Reason: Unhandled exception.
+2026-02-14 17:33:25.840 - ShareX closing. Reason: Unhandled exception.
+2026-02-14 17:33:26.377 - ShareX continue.
+2026-02-14 17:33:35.086 - ShareX starting.
+2026-02-14 17:33:35.087 - Version: 19.0.2
+2026-02-14 17:33:35.087 - Build: Release
+2026-02-14 17:33:35.088 - Command line: D:\ShareX\ShareX.dll
+2026-02-14 17:33:35.088 - Personal path: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots
+2026-02-14 17:33:35.088 - Personal path detection method: PersonalPath.cfg file (C:\Users\jrmar\Documents\ShareX\PersonalPath.cfg)
+2026-02-14 17:33:35.088 - Operating system: Windows 10 Pro (64-bit)
+2026-02-14 17:33:35.089 - .NET version: 9.0.12
+2026-02-14 17:33:35.089 - Running as elevated process: False
+2026-02-14 17:33:35.103 - ApplicationConfig load started: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\ApplicationConfig.json
+2026-02-14 17:33:35.169 - ApplicationConfig load failed: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\ApplicationConfig.json:
+System.IO.FileNotFoundException: Could not load file or assembly 'ShareX.MediaLib, Version=19.0.2.0, Culture=neutral, PublicKeyToken=null'. The system cannot find the file specified.
+File name: 'ShareX.MediaLib, Version=19.0.2.0, Culture=neutral, PublicKeyToken=null'
+   at ShareX.TaskSettingsTools..ctor()
+   at ShareX.TaskSettings..ctor()
+   at ShareX.ApplicationConfig..ctor()
+   at CreateShareX.ApplicationConfig()
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateNewObject(JsonReader reader, JsonObjectContract objectContract, JsonProperty containerMember, JsonProperty containerProperty, String id, Boolean& createdFromNonDefaultCreator)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   at Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonSerializer.Deserialize(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonSerializer.Deserialize[T](JsonReader reader)
+   at ShareX.HelpersLib.SettingsBase`1.LoadInternal(String filePath, List`1 fallbackFilePaths)
+2026-02-14 17:33:35.170 - ApplicationConfig file does not exist: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\ApplicationConfig.json.temp
+2026-02-14 17:33:35.170 - ApplicationConfig load started: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\Backup\ApplicationConfig.json
+2026-02-14 17:33:35.173 - ApplicationConfig load failed: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\Backup\ApplicationConfig.json:
+System.IO.FileNotFoundException: Could not load file or assembly 'ShareX.MediaLib, Version=19.0.2.0, Culture=neutral, PublicKeyToken=null'. The system cannot find the file specified.
+File name: 'ShareX.MediaLib, Version=19.0.2.0, Culture=neutral, PublicKeyToken=null'
+   at ShareX.TaskSettingsTools..ctor()
+   at ShareX.TaskSettings..ctor()
+   at ShareX.ApplicationConfig..ctor()
+   at CreateShareX.ApplicationConfig()
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateNewObject(JsonReader reader, JsonObjectContract objectContract, JsonProperty containerMember, JsonProperty containerProperty, String id, Boolean& createdFromNonDefaultCreator)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   at Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonSerializer.Deserialize(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonSerializer.Deserialize[T](JsonReader reader)
+   at ShareX.HelpersLib.SettingsBase`1.LoadInternal(String filePath, List`1 fallbackFilePaths)
+2026-02-14 17:33:35.173 - ApplicationConfig load started: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\Backup\ApplicationConfig-2026-01-W05.json
+2026-02-14 17:33:35.174 - ApplicationConfig load failed: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\Backup\ApplicationConfig-2026-01-W05.json:
+System.IO.FileNotFoundException: Could not load file or assembly 'ShareX.MediaLib, Version=19.0.2.0, Culture=neutral, PublicKeyToken=null'. The system cannot find the file specified.
+File name: 'ShareX.MediaLib, Version=19.0.2.0, Culture=neutral, PublicKeyToken=null'
+   at ShareX.TaskSettingsTools..ctor()
+   at ShareX.TaskSettings..ctor()
+   at ShareX.ApplicationConfig..ctor()
+   at CreateShareX.ApplicationConfig()
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateNewObject(JsonReader reader, JsonObjectContract objectContract, JsonProperty containerMember, JsonProperty containerProperty, String id, Boolean& createdFromNonDefaultCreator)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   at Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonSerializer.Deserialize(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonSerializer.Deserialize[T](JsonReader reader)
+   at ShareX.HelpersLib.SettingsBase`1.LoadInternal(String filePath, List`1 fallbackFilePaths)
+2026-02-14 17:33:35.174 - Loading new ApplicationConfig instance.
+2026-02-14 17:33:35.213 - Unhandled exception:
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation.
+ ---> System.IO.FileNotFoundException: Could not load file or assembly 'ShareX.MediaLib, Version=19.0.2.0, Culture=neutral, PublicKeyToken=null'. The system cannot find the file specified.
+File name: 'ShareX.MediaLib, Version=19.0.2.0, Culture=neutral, PublicKeyToken=null'
+   at ShareX.TaskSettingsTools..ctor()
+   at ShareX.TaskSettings..ctor()
+   at ShareX.ApplicationConfig..ctor()
+   at System.RuntimeType.CreateInstanceOfT()
+   --- End of inner exception stack trace ---
+   at System.RuntimeType.CreateInstanceOfT()
+   at System.Activator.CreateInstance[T]()
+   at ShareX.HelpersLib.SettingsBase`1.LoadInternal(String filePath, List`1 fallbackFilePaths)
+   at ShareX.HelpersLib.SettingsBase`1.LoadInternal(String filePath, List`1 fallbackFilePaths)
+   at ShareX.HelpersLib.SettingsBase`1.LoadInternal(String filePath, List`1 fallbackFilePaths)
+   at ShareX.HelpersLib.SettingsBase`1.LoadInternal(String filePath, List`1 fallbackFilePaths)
+   at ShareX.HelpersLib.SettingsBase`1.Load(String filePath, String backupFolder, Boolean fallbackSupport)
+   at ShareX.SettingManager.LoadApplicationConfig(Boolean fallbackSupport)
+   at ShareX.SettingManager.LoadInitialSettings()
+   at ShareX.Program.Run()
+   at ShareX.Program.Main(String[] args)
+
+ShareX 19.0.2
+2026-02-14 17:33:42.697 - File opened: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\Logs\ShareX-Log-2026-02.txt
+2026-02-14 17:35:05.560 - Arguments received: ""
+2026-02-14 17:35:10.011 - ShareX closing. Reason: Unhandled exception.
+2026-02-14 17:35:11.154 - ShareX continue.
+2026-02-14 17:35:18.019 - ShareX starting.
+2026-02-14 17:35:18.021 - Version: 19.0.2
+2026-02-14 17:35:18.021 - Build: Release
+2026-02-14 17:35:18.021 - Command line: D:\ShareX\ShareX.dll
+2026-02-14 17:35:18.021 - Personal path: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots
+2026-02-14 17:35:18.021 - Personal path detection method: PersonalPath.cfg file (C:\Users\jrmar\Documents\ShareX\PersonalPath.cfg)
+2026-02-14 17:35:18.021 - Operating system: Windows 10 Pro (64-bit)
+2026-02-14 17:35:18.022 - .NET version: 9.0.12
+2026-02-14 17:35:18.022 - Running as elevated process: True
+2026-02-14 17:35:18.036 - ApplicationConfig load started: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\ApplicationConfig.json
+2026-02-14 17:35:18.104 - ApplicationConfig load failed: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\ApplicationConfig.json:
+System.IO.FileNotFoundException: Could not load file or assembly 'ShareX.MediaLib, Version=19.0.2.0, Culture=neutral, PublicKeyToken=null'. The system cannot find the file specified.
+File name: 'ShareX.MediaLib, Version=19.0.2.0, Culture=neutral, PublicKeyToken=null'
+   at ShareX.TaskSettingsTools..ctor()
+   at ShareX.TaskSettings..ctor()
+   at ShareX.ApplicationConfig..ctor()
+   at CreateShareX.ApplicationConfig()
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateNewObject(JsonReader reader, JsonObjectContract objectContract, JsonProperty containerMember, JsonProperty containerProperty, String id, Boolean& createdFromNonDefaultCreator)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   at Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonSerializer.Deserialize(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonSerializer.Deserialize[T](JsonReader reader)
+   at ShareX.HelpersLib.SettingsBase`1.LoadInternal(String filePath, List`1 fallbackFilePaths)
+2026-02-14 17:35:18.104 - ApplicationConfig file does not exist: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\ApplicationConfig.json.temp
+2026-02-14 17:35:18.105 - ApplicationConfig load started: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\Backup\ApplicationConfig.json
+2026-02-14 17:35:18.108 - ApplicationConfig load failed: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\Backup\ApplicationConfig.json:
+System.IO.FileNotFoundException: Could not load file or assembly 'ShareX.MediaLib, Version=19.0.2.0, Culture=neutral, PublicKeyToken=null'. The system cannot find the file specified.
+File name: 'ShareX.MediaLib, Version=19.0.2.0, Culture=neutral, PublicKeyToken=null'
+   at ShareX.TaskSettingsTools..ctor()
+   at ShareX.TaskSettings..ctor()
+   at ShareX.ApplicationConfig..ctor()
+   at CreateShareX.ApplicationConfig()
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateNewObject(JsonReader reader, JsonObjectContract objectContract, JsonProperty containerMember, JsonProperty containerProperty, String id, Boolean& createdFromNonDefaultCreator)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   at Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonSerializer.Deserialize(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonSerializer.Deserialize[T](JsonReader reader)
+   at ShareX.HelpersLib.SettingsBase`1.LoadInternal(String filePath, List`1 fallbackFilePaths)
+2026-02-14 17:35:18.108 - ApplicationConfig load started: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\Backup\ApplicationConfig-2026-01-W05.json
+2026-02-14 17:35:18.109 - ApplicationConfig load failed: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\Backup\ApplicationConfig-2026-01-W05.json:
+System.IO.FileNotFoundException: Could not load file or assembly 'ShareX.MediaLib, Version=19.0.2.0, Culture=neutral, PublicKeyToken=null'. The system cannot find the file specified.
+File name: 'ShareX.MediaLib, Version=19.0.2.0, Culture=neutral, PublicKeyToken=null'
+   at ShareX.TaskSettingsTools..ctor()
+   at ShareX.TaskSettings..ctor()
+   at ShareX.ApplicationConfig..ctor()
+   at CreateShareX.ApplicationConfig()
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateNewObject(JsonReader reader, JsonObjectContract objectContract, JsonProperty containerMember, JsonProperty containerProperty, String id, Boolean& createdFromNonDefaultCreator)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   at Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonSerializer.Deserialize(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonSerializer.Deserialize[T](JsonReader reader)
+   at ShareX.HelpersLib.SettingsBase`1.LoadInternal(String filePath, List`1 fallbackFilePaths)
+2026-02-14 17:35:18.109 - Loading new ApplicationConfig instance.
+2026-02-14 17:35:18.147 - Unhandled exception:
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation.
+ ---> System.IO.FileNotFoundException: Could not load file or assembly 'ShareX.MediaLib, Version=19.0.2.0, Culture=neutral, PublicKeyToken=null'. The system cannot find the file specified.
+File name: 'ShareX.MediaLib, Version=19.0.2.0, Culture=neutral, PublicKeyToken=null'
+   at ShareX.TaskSettingsTools..ctor()
+   at ShareX.TaskSettings..ctor()
+   at ShareX.ApplicationConfig..ctor()
+   at System.RuntimeType.CreateInstanceOfT()
+   --- End of inner exception stack trace ---
+   at System.RuntimeType.CreateInstanceOfT()
+   at System.Activator.CreateInstance[T]()
+   at ShareX.HelpersLib.SettingsBase`1.LoadInternal(String filePath, List`1 fallbackFilePaths)
+   at ShareX.HelpersLib.SettingsBase`1.LoadInternal(String filePath, List`1 fallbackFilePaths)
+   at ShareX.HelpersLib.SettingsBase`1.LoadInternal(String filePath, List`1 fallbackFilePaths)
+   at ShareX.HelpersLib.SettingsBase`1.LoadInternal(String filePath, List`1 fallbackFilePaths)
+   at ShareX.HelpersLib.SettingsBase`1.Load(String filePath, String backupFolder, Boolean fallbackSupport)
+   at ShareX.SettingManager.LoadApplicationConfig(Boolean fallbackSupport)
+   at ShareX.SettingManager.LoadInitialSettings()
+   at ShareX.Program.Run()
+   at ShareX.Program.Main(String[] args)
+
+ShareX 19.0.2
+2026-02-14 17:35:40.750 - ShareX closing. Reason: Unhandled exception.
+2026-02-14 17:35:41.661 - ShareX closing. Reason: Unhandled exception.
+2026-02-14 17:35:42.133 - ShareX continue.
+2026-02-14 17:38:14.447 - ShareX starting.
+2026-02-14 17:38:14.449 - Version: 18.0.1
+2026-02-14 17:38:14.449 - Build: Release
+2026-02-14 17:38:14.450 - Command line: D:\ShareX\ShareX.dll
+2026-02-14 17:38:14.450 - Personal path: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots
+2026-02-14 17:38:14.450 - Personal path detection method: PersonalPath.cfg file (C:\Users\jrmar\Documents\ShareX\PersonalPath.cfg)
+2026-02-14 17:38:14.450 - Operating system: Windows 10 Pro (64-bit)
+2026-02-14 17:38:14.451 - .NET version: 9.0.8
+2026-02-14 17:38:14.451 - Running as elevated process: False
+2026-02-14 17:38:14.506 - ApplicationConfig load started: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\ApplicationConfig.json
+2026-02-14 17:38:14.893 - ApplicationConfig load finished: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\ApplicationConfig.json
+2026-02-14 17:38:14.996 - MainForm init started.
+2026-02-14 17:38:14.996 - UploadersConfig load started: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\UploadersConfig.json
+2026-02-14 17:38:15.067 - UploadersConfig load finished: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\UploadersConfig.json
+2026-02-14 17:38:15.068 - HotkeysConfig load started: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\HotkeysConfig.json
+2026-02-14 17:38:15.084 - HotkeysConfig load finished: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\HotkeysConfig.json
+2026-02-14 17:38:15.453 - MainForm init finished.
+2026-02-14 17:38:15.620 - Hotkey registered: Hotkey: Ctrl + Print Screen, Description: Capture region, Job: RectangleRegion
+2026-02-14 17:38:15.620 - Hotkey registered: Hotkey: Print Screen, Description: Capture entire screen, Job: PrintScreen
+2026-02-14 17:38:15.620 - Hotkey registered: Hotkey: Alt + Print Screen, Description: Capture active window, Job: ActiveWindow
+2026-02-14 17:38:15.620 - Hotkey registered: Hotkey: Shift + Print Screen, Description: Start/Stop screen recording, Job: ScreenRecorder
+2026-02-14 17:38:15.620 - Hotkey registered: Hotkey: Ctrl + Shift + Print Screen, Description: Start/Stop screen recording (GIF), Job: ScreenRecorderGIF
+2026-02-14 17:38:15.620 - HotkeyManager started.
+2026-02-14 17:38:15.621 - WatchFolderManager started.
+2026-02-14 17:38:15.640 - Startup time: 1288 ms
+2026-02-14 17:38:21.179 - Updating ShareX from version 18.0.1 to 19.0.2
+2026-02-14 17:38:21.235 - Downloading: "https://api.github.com/repos/ShareX/ShareX/releases/assets/346926401" -> "C:\Users\jrmar\AppData\Local\Temp\ShareX\ShareX-19.0.2-setup.exe"
+2026-02-14 17:38:23.427 - Hotkey unregister failed: Hotkey: Ctrl + Print Screen, Description: Capture region, Job: RectangleRegion
+2026-02-14 17:38:23.427 - Hotkey unregister failed: Hotkey: Print Screen, Description: Capture entire screen, Job: PrintScreen
+2026-02-14 17:38:23.427 - Hotkey unregister failed: Hotkey: Alt + Print Screen, Description: Capture active window, Job: ActiveWindow
+2026-02-14 17:38:23.428 - Hotkey unregister failed: Hotkey: Shift + Print Screen, Description: Start/Stop screen recording, Job: ScreenRecorder
+2026-02-14 17:38:23.428 - Hotkey unregister failed: Hotkey: Ctrl + Shift + Print Screen, Description: Start/Stop screen recording (GIF), Job: ScreenRecorderGIF
+2026-02-14 17:38:23.530 - ShareX closing.
+2026-02-14 17:38:23.533 - ApplicationConfig save started: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\ApplicationConfig.json
+2026-02-14 17:38:24.220 - ApplicationConfig save successful: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\ApplicationConfig.json
+2026-02-14 17:38:24.220 - UploadersConfig save started: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\UploadersConfig.json
+2026-02-14 17:38:24.334 - UploadersConfig save successful: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\UploadersConfig.json
+2026-02-14 17:38:24.334 - HotkeysConfig save started: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\HotkeysConfig.json
+2026-02-14 17:38:24.377 - HotkeysConfig save successful: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\HotkeysConfig.json
+2026-02-14 17:38:24.377 - ShareX closed.
+2026-02-14 17:38:49.276 - ShareX starting.
+2026-02-14 17:38:49.279 - Version: 19.0.2
+2026-02-14 17:38:49.279 - Build: Release
+2026-02-14 17:38:49.280 - Command line: D:\ShareX\ShareX.dll
+2026-02-14 17:38:49.280 - Personal path: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots
+2026-02-14 17:38:49.280 - Personal path detection method: PersonalPath.cfg file (C:\Users\jrmar\Documents\ShareX\PersonalPath.cfg)
+2026-02-14 17:38:49.280 - Operating system: Windows 10 Pro (64-bit)
+2026-02-14 17:38:49.281 - .NET version: 9.0.12
+2026-02-14 17:38:49.281 - Running as elevated process: False
+2026-02-14 17:38:49.330 - ApplicationConfig load started: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\ApplicationConfig.json
+2026-02-14 17:38:49.666 - ApplicationConfig load finished: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\ApplicationConfig.json
+2026-02-14 17:38:49.846 - MainForm init started.
+2026-02-14 17:38:49.846 - UploadersConfig load started: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\UploadersConfig.json
+2026-02-14 17:38:49.855 - ShareX temp folder cleaned: C:\Users\jrmar\AppData\Local\Temp\ShareX
+2026-02-14 17:38:49.904 - UploadersConfig load finished: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\UploadersConfig.json
+2026-02-14 17:38:49.905 - HotkeysConfig load started: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\HotkeysConfig.json
+2026-02-14 17:38:49.920 - HotkeysConfig load finished: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\HotkeysConfig.json
+2026-02-14 17:38:50.284 - MainForm init finished.
+2026-02-14 17:38:50.416 - Hotkey registered: Hotkey: Ctrl + Print Screen, Description: Capture region, Job: RectangleRegion
+2026-02-14 17:38:50.416 - Hotkey registered: Hotkey: Print Screen, Description: Capture entire screen, Job: PrintScreen
+2026-02-14 17:38:50.416 - Hotkey registered: Hotkey: Alt + Print Screen, Description: Capture active window, Job: ActiveWindow
+2026-02-14 17:38:50.416 - Hotkey registered: Hotkey: Shift + Print Screen, Description: Start/Stop screen recording, Job: ScreenRecorder
+2026-02-14 17:38:50.416 - Hotkey registered: Hotkey: Ctrl + Shift + Print Screen, Description: Start/Stop screen recording (GIF), Job: ScreenRecorderGIF
+2026-02-14 17:38:50.417 - HotkeyManager started.
+2026-02-14 17:38:50.417 - WatchFolderManager started.
+2026-02-14 17:38:50.436 - Startup time: 1246 ms
+2026-02-14 17:41:25.226 - Folder opened: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\Screenshots\
+2026-02-14 17:47:12.350 - Hotkey triggered. Hotkey: Ctrl + Print Screen, Description: Capture region, Job: RectangleRegion
+2026-02-14 17:47:12.351 - Executing: Capture region
+2026-02-14 17:49:45.700 - Hotkey triggered. Hotkey: Ctrl + Print Screen, Description: Capture region, Job: RectangleRegion
+2026-02-14 17:49:45.700 - Executing: Capture region
+2026-02-14 17:49:51.181 - Task in queue. Job: Job, Type: Image, Host: 
+2026-02-14 17:49:51.289 - Task status: Preparing
+2026-02-14 17:49:51.315 - Image copied to clipboard.
+2026-02-14 17:49:51.355 - Image saved to file: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\Screenshots\2026-02\VirtualBoxVM_B4IYDgByre.png
+2026-02-14 17:49:51.373 - Task completed. File name: VirtualBoxVM_B4IYDgByre.png, Duration: 83 ms
+2026-02-14 18:06:46.595 - Folder opened with file: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\Screenshots\2026-02\VirtualBoxVM_B4IYDgByre.png
+2026-02-14 18:19:34.079 - Task in queue. Job: Job, Type: Image, Host: 
+2026-02-14 18:19:34.100 - Task status: Preparing
+2026-02-14 18:19:34.137 - Image copied to clipboard.
+2026-02-14 18:19:34.165 - Image saved to file: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\Screenshots\2026-02\VirtualBoxVM_V4edxRymPI.png
+2026-02-14 18:19:34.186 - Task completed. File name: VirtualBoxVM_V4edxRymPI.png, Duration: 86 ms
+2026-02-14 18:21:17.657 - Task in queue. Job: Job, Type: Image, Host: 
+2026-02-14 18:21:17.685 - Task status: Preparing
+2026-02-14 18:21:17.718 - Image copied to clipboard.
+2026-02-14 18:21:17.737 - Image saved to file: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\Screenshots\2026-02\DgUqKdHtAD.png
+2026-02-14 18:21:17.760 - Task completed. File name: DgUqKdHtAD.png, Duration: 75 ms
+2026-02-14 19:59:03.113 - Task in queue. Job: Job, Type: Image, Host: 
+2026-02-14 19:59:03.138 - Task status: Preparing
+2026-02-14 19:59:03.163 - Image copied to clipboard.
+2026-02-14 19:59:03.186 - Image saved to file: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\Screenshots\2026-02\AqSoHV4CJG.png
+2026-02-14 19:59:03.209 - Task completed. File name: AqSoHV4CJG.png, Duration: 72 ms
+2026-02-14 21:08:42.395 - Task in queue. Job: Job, Type: Image, Host: 
+2026-02-14 21:08:42.421 - Task status: Preparing
+2026-02-14 21:08:42.448 - Image copied to clipboard.
+2026-02-14 21:08:42.470 - Image saved to file: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\Screenshots\2026-02\VIA9nO6A5M.png
+2026-02-14 21:08:42.493 - Task completed. File name: VIA9nO6A5M.png, Duration: 73 ms
+2026-02-14 21:12:22.929 - Task in queue. Job: Job, Type: Image, Host: 
+2026-02-14 21:12:22.953 - Task status: Preparing
+2026-02-14 21:12:22.980 - Image copied to clipboard.
+2026-02-14 21:12:22.996 - Image saved to file: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\Screenshots\2026-02\VlnHhUltrl.png
+2026-02-14 21:12:23.020 - Task completed. File name: VlnHhUltrl.png, Duration: 68 ms
+2026-02-15 11:27:51.130 - Task in queue. Job: Job, Type: Image, Host: 
+2026-02-15 11:27:51.162 - Task status: Preparing
+2026-02-15 11:27:51.188 - Image copied to clipboard.
+2026-02-15 11:27:51.209 - Image saved to file: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\Screenshots\2026-02\A0twHCQumu.png
+2026-02-15 11:27:51.236 - Task completed. File name: A0twHCQumu.png, Duration: 75 ms
+2026-02-15 11:30:15.920 - Task in queue. Job: Job, Type: Image, Host: 
+2026-02-15 11:30:15.950 - Task status: Preparing
+2026-02-15 11:30:15.981 - Image copied to clipboard.
+2026-02-15 11:30:15.996 - Image saved to file: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\Screenshots\2026-02\DVFEec9PuD.png
+2026-02-15 11:30:16.043 - Task completed. File name: DVFEec9PuD.png, Duration: 93 ms
+2026-02-15 11:31:52.009 - Task in queue. Job: Job, Type: Image, Host: 
+2026-02-15 11:31:52.037 - Task status: Preparing
+2026-02-15 11:31:52.063 - Image copied to clipboard.
+2026-02-15 11:31:52.093 - Image saved to file: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\Screenshots\2026-02\4JGa8bAXbd.png
+2026-02-15 11:31:52.120 - Task completed. File name: 4JGa8bAXbd.png, Duration: 84 ms
+2026-02-15 11:58:13.858 - Task in queue. Job: Job, Type: Image, Host: 
+2026-02-15 11:58:13.889 - Task status: Preparing
+2026-02-15 11:58:13.917 - Image copied to clipboard.
+2026-02-15 11:58:13.939 - Image saved to file: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\Screenshots\2026-02\qOjQfjYAKY.png
+2026-02-15 11:58:13.968 - Task completed. File name: qOjQfjYAKY.png, Duration: 81 ms
+2026-02-15 12:12:25.411 - Task in queue. Job: Job, Type: Image, Host: 
+2026-02-15 12:12:25.443 - Task status: Preparing
+2026-02-15 12:12:25.467 - Image copied to clipboard.
+2026-02-15 12:12:25.485 - Image saved to file: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\Screenshots\2026-02\T55oMgfsyh.png
+2026-02-15 12:12:25.541 - Task completed. File name: T55oMgfsyh.png, Duration: 100 ms
+2026-02-15 12:13:10.282 - Task in queue. Job: Job, Type: Image, Host: 
+2026-02-15 12:13:10.317 - Task status: Preparing
+2026-02-15 12:13:10.344 - Image copied to clipboard.
+2026-02-15 12:13:10.360 - Image saved to file: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\Screenshots\2026-02\rLGRZVDXO0.png
+2026-02-15 12:13:10.419 - Task completed. File name: rLGRZVDXO0.png, Duration: 102 ms
+2026-02-15 13:50:25.019 - Task in queue. Job: Job, Type: Image, Host: 
+2026-02-15 13:50:25.058 - Task status: Preparing
+2026-02-15 13:50:25.086 - Image copied to clipboard.
+2026-02-15 13:50:25.109 - Image saved to file: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\Screenshots\2026-02\cMccJahyK5.png
+2026-02-15 13:50:25.164 - Task completed. File name: cMccJahyK5.png, Duration: 106 ms
+2026-02-15 13:51:57.264 - Task in queue. Job: Job, Type: Image, Host: 
+2026-02-15 13:51:57.306 - Task status: Preparing
+2026-02-15 13:51:57.333 - Image copied to clipboard.
+2026-02-15 13:51:57.351 - Image saved to file: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\Screenshots\2026-02\DGLXTsFV0u.png
+2026-02-15 13:51:57.415 - Task completed. File name: DGLXTsFV0u.png, Duration: 110 ms
+2026-02-15 13:55:33.876 - Task in queue. Job: Job, Type: Image, Host: 
+2026-02-15 13:55:33.928 - Task status: Preparing
+2026-02-15 13:55:33.956 - Image copied to clipboard.
+2026-02-15 13:55:33.972 - Image saved to file: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\Screenshots\2026-02\pkwBofBwbz.png
+2026-02-15 13:55:34.037 - Task completed. File name: pkwBofBwbz.png, Duration: 110 ms
+2026-02-15 14:18:59.273 - Task in queue. Job: Job, Type: Image, Host: 
+2026-02-15 14:18:59.322 - Task status: Preparing
+2026-02-15 14:18:59.360 - Image copied to clipboard.
+2026-02-15 14:18:59.381 - Image saved to file: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\Screenshots\2026-02\DCqUZ9UZ9n.png
+2026-02-15 14:18:59.460 - Task completed. File name: DCqUZ9UZ9n.png, Duration: 139 ms
+2026-02-16 15:14:15.975 - ShareX closing.
+2026-02-16 15:14:15.990 - ApplicationConfig save started: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\ApplicationConfig.json
+2026-02-16 15:14:16.153 - ApplicationConfig save successful: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\ApplicationConfig.json
+2026-02-16 15:14:16.154 - UploadersConfig save started: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\UploadersConfig.json
+2026-02-16 15:14:16.207 - UploadersConfig save successful: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\UploadersConfig.json
+2026-02-16 15:14:16.208 - HotkeysConfig save started: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\HotkeysConfig.json
+2026-02-16 15:14:16.224 - HotkeysConfig save successful: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\HotkeysConfig.json
+2026-02-16 15:14:16.224 - ShareX closed.
+2026-02-16 15:16:25.099 - ShareX starting.
+2026-02-16 15:16:25.139 - Version: 19.0.2
+2026-02-16 15:16:25.139 - Build: Release
+2026-02-16 15:16:25.139 - Command line: D:\ShareX\ShareX.dll -silent
+2026-02-16 15:16:25.139 - Personal path: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots
+2026-02-16 15:16:25.139 - Personal path detection method: PersonalPath.cfg file (C:\Users\jrmar\Documents\ShareX\PersonalPath.cfg)
+2026-02-16 15:16:25.140 - Operating system: Windows 10 Pro (64-bit)
+2026-02-16 15:16:25.140 - .NET version: 9.0.12
+2026-02-16 15:16:25.140 - Running as elevated process: False
+2026-02-16 15:16:25.469 - Flags: SilentRun
+2026-02-16 15:16:25.790 - ApplicationConfig load started: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\ApplicationConfig.json
+2026-02-16 15:16:29.136 - ApplicationConfig load finished: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\ApplicationConfig.json
+2026-02-16 15:16:35.646 - MainForm init started.
+2026-02-16 15:16:35.647 - UploadersConfig load started: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\UploadersConfig.json
+2026-02-16 15:16:36.068 - UploadersConfig load finished: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\UploadersConfig.json
+2026-02-16 15:16:36.069 - HotkeysConfig load started: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\HotkeysConfig.json
+2026-02-16 15:16:36.234 - HotkeysConfig load finished: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\HotkeysConfig.json
+2026-02-16 15:16:36.936 - MainForm init finished.
+2026-02-16 15:16:37.191 - Hotkey registered: Hotkey: Ctrl + Print Screen, Description: Capture region, Job: RectangleRegion
+2026-02-16 15:16:37.191 - Hotkey registered: Hotkey: Print Screen, Description: Capture entire screen, Job: PrintScreen
+2026-02-16 15:16:37.191 - Hotkey registered: Hotkey: Alt + Print Screen, Description: Capture active window, Job: ActiveWindow
+2026-02-16 15:16:37.191 - Hotkey registered: Hotkey: Shift + Print Screen, Description: Start/Stop screen recording, Job: ScreenRecorder
+2026-02-16 15:16:37.191 - Hotkey registered: Hotkey: Ctrl + Shift + Print Screen, Description: Start/Stop screen recording (GIF), Job: ScreenRecorderGIF
+2026-02-16 15:16:37.191 - HotkeyManager started.
+2026-02-16 15:16:37.192 - WatchFolderManager started.
+2026-02-16 15:16:37.200 - Startup time: 13262 ms
+2026-02-16 15:16:37.202 - CommandLine: -silent
+2026-02-16 15:40:24.726 - Hotkey triggered. Hotkey: Print Screen, Description: Capture entire screen, Job: PrintScreen
+2026-02-16 15:40:24.727 - Executing: Capture entire screen
+2026-02-16 15:40:24.928 - Task in queue. Job: Job, Type: Image, Host: 
+2026-02-16 15:40:25.129 - Task status: Preparing
+2026-02-16 15:40:25.291 - Image copied to clipboard.
+2026-02-16 15:40:25.379 - Image saved to file: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\Screenshots\2026-02\cwSfAaYAvs.png
+2026-02-16 15:40:25.440 - Task completed. File name: cwSfAaYAvs.png, Duration: 308 ms
+2026-02-16 15:40:30.502 - URL opened: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\Screenshots\2026-02\cwSfAaYAvs.png
+2026-02-17 13:10:04.007 - ShareX starting.
+2026-02-17 13:10:04.023 - Version: 19.0.2
+2026-02-17 13:10:04.023 - Build: Release
+2026-02-17 13:10:04.023 - Command line: D:\ShareX\ShareX.dll -silent
+2026-02-17 13:10:04.023 - Personal path: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots
+2026-02-17 13:10:04.023 - Personal path detection method: PersonalPath.cfg file (C:\Users\jrmar\Documents\ShareX\PersonalPath.cfg)
+2026-02-17 13:10:04.024 - Operating system: Windows 10 Pro (64-bit)
+2026-02-17 13:10:04.024 - .NET version: 9.0.12
+2026-02-17 13:10:04.024 - Running as elevated process: False
+2026-02-17 13:10:04.200 - Flags: SilentRun
+2026-02-17 13:10:04.865 - ApplicationConfig load started: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\ApplicationConfig.json
+2026-02-17 13:10:07.566 - ApplicationConfig load finished: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\ApplicationConfig.json
+2026-02-17 13:10:12.999 - UploadersConfig load started: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\UploadersConfig.json
+2026-02-17 13:10:13.042 - MainForm init started.
+2026-02-17 13:10:13.167 - UploadersConfig load finished: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\UploadersConfig.json
+2026-02-17 13:10:13.168 - HotkeysConfig load started: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\HotkeysConfig.json
+2026-02-17 13:10:13.437 - HotkeysConfig load finished: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\HotkeysConfig.json
+2026-02-17 13:10:17.516 - MainForm init finished.
+2026-02-17 13:10:17.803 - Hotkey registered: Hotkey: Ctrl + Print Screen, Description: Capture region, Job: RectangleRegion
+2026-02-17 13:10:17.803 - Hotkey registered: Hotkey: Print Screen, Description: Capture entire screen, Job: PrintScreen
+2026-02-17 13:10:17.803 - Hotkey registered: Hotkey: Alt + Print Screen, Description: Capture active window, Job: ActiveWindow
+2026-02-17 13:10:17.803 - Hotkey registered: Hotkey: Shift + Print Screen, Description: Start/Stop screen recording, Job: ScreenRecorder
+2026-02-17 13:10:17.803 - Hotkey registered: Hotkey: Ctrl + Shift + Print Screen, Description: Start/Stop screen recording (GIF), Job: ScreenRecorderGIF
+2026-02-17 13:10:17.804 - HotkeyManager started.
+2026-02-17 13:10:17.804 - WatchFolderManager started.
+2026-02-17 13:10:17.847 - Startup time: 14353 ms
+2026-02-17 13:10:17.848 - CommandLine: -silent
+2026-02-17 19:44:23.851 - ShareX closing.
+2026-02-17 19:44:23.861 - ApplicationConfig save started: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\ApplicationConfig.json
+2026-02-17 19:44:24.029 - ApplicationConfig save successful: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\ApplicationConfig.json
+2026-02-17 19:44:24.030 - UploadersConfig save started: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\UploadersConfig.json
+2026-02-17 19:44:24.059 - UploadersConfig save successful: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\UploadersConfig.json
+2026-02-17 19:44:24.060 - HotkeysConfig save started: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\HotkeysConfig.json
+2026-02-17 19:44:24.076 - HotkeysConfig save successful: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\HotkeysConfig.json
+2026-02-17 19:44:24.076 - ShareX closed.
+2026-02-17 19:45:58.799 - ShareX starting.
+2026-02-17 19:45:58.801 - Version: 19.0.2
+2026-02-17 19:45:58.801 - Build: Release
+2026-02-17 19:45:58.801 - Command line: D:\ShareX\ShareX.dll -silent
+2026-02-17 19:45:58.801 - Personal path: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots
+2026-02-17 19:45:58.801 - Personal path detection method: PersonalPath.cfg file (C:\Users\jrmar\Documents\ShareX\PersonalPath.cfg)
+2026-02-17 19:45:58.802 - Operating system: Windows 10 Pro (64-bit)
+2026-02-17 19:45:58.803 - .NET version: 9.0.12
+2026-02-17 19:45:58.803 - Running as elevated process: False
+2026-02-17 19:45:58.892 - Flags: SilentRun
+2026-02-17 19:45:58.919 - ApplicationConfig load started: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\ApplicationConfig.json
+2026-02-17 19:46:02.106 - ApplicationConfig load finished: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\ApplicationConfig.json
+2026-02-17 19:46:04.692 - MainForm init started.
+2026-02-17 19:46:04.705 - UploadersConfig load started: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\UploadersConfig.json
+2026-02-17 19:46:05.155 - UploadersConfig load finished: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\UploadersConfig.json
+2026-02-17 19:46:05.155 - HotkeysConfig load started: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\HotkeysConfig.json
+2026-02-17 19:46:05.394 - HotkeysConfig load finished: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\HotkeysConfig.json
+2026-02-17 19:46:07.429 - MainForm init finished.
+2026-02-17 19:46:07.925 - Hotkey registered: Hotkey: Ctrl + Print Screen, Description: Capture region, Job: RectangleRegion
+2026-02-17 19:46:07.925 - Hotkey registered: Hotkey: Print Screen, Description: Capture entire screen, Job: PrintScreen
+2026-02-17 19:46:07.925 - Hotkey registered: Hotkey: Alt + Print Screen, Description: Capture active window, Job: ActiveWindow
+2026-02-17 19:46:07.925 - Hotkey registered: Hotkey: Shift + Print Screen, Description: Start/Stop screen recording, Job: ScreenRecorder
+2026-02-17 19:46:07.925 - Hotkey registered: Hotkey: Ctrl + Shift + Print Screen, Description: Start/Stop screen recording (GIF), Job: ScreenRecorderGIF
+2026-02-17 19:46:07.925 - HotkeyManager started.
+2026-02-17 19:46:07.926 - WatchFolderManager started.
+2026-02-17 19:46:07.973 - Startup time: 9276 ms
+2026-02-17 19:46:07.974 - CommandLine: -silent
+2026-02-17 19:46:08.844 - GitHub update check failed.:
+System.Net.Http.HttpRequestException: The requested name is valid, but no data of the requested type was found. (api.github.com:443)
+ ---> System.Net.Sockets.SocketException (11004): The requested name is valid, but no data of the requested type was found.
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Net.Sockets.Socket.<ConnectAsync>g__WaitForConnectWithCancellation|285_0(AwaitableSocketAsyncEventArgs saea, ValueTask connectTask, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.InjectNewHttp11ConnectionAsync(QueueItem queueItem)
+   at System.Threading.Tasks.TaskCompletionSourceWithCancellation`1.WaitWithCancellationAsync(CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at ShareX.HelpersLib.WebHelpers.DownloadStringAsync(String url)
+   at ShareX.HelpersLib.GitHubUpdateChecker.GetLatestRelease()
+   at ShareX.HelpersLib.GitHubUpdateChecker.GetLatestRelease(Boolean includePreRelease)
+   at ShareX.HelpersLib.GitHubUpdateChecker.CheckUpdateAsync()
+2026-02-17 22:16:19.702 - Arguments received: ""
+2026-02-17 22:16:59.064 - Task in queue. Job: Job, Type: Image, Host: 
+2026-02-17 22:16:59.229 - Task status: Preparing
+2026-02-17 22:17:01.505 - Clipboard copy image failed.:
+System.Runtime.InteropServices.ExternalException (0x800401D0): Requested Clipboard operation did not succeed.
+   at System.Windows.Forms.Clipboard.SetDataObject(Object data, Boolean copy, Int32 retryTimes, Int32 retryDelay)
+   at ShareX.HelpersLib.ClipboardHelpers.CopyData(IDataObject data, Boolean copy)
+   at ShareX.HelpersLib.ClipboardHelpers.CopyImageDefaultFillBackground(Image img, Color background)
+   at ShareX.HelpersLib.ClipboardHelpers.CopyImage(Image img, String fileName)
+2026-02-17 22:17:01.505 - Image copied to clipboard.
+2026-02-17 22:17:01.572 - Image saved to file: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\Screenshots\2026-02\VirtualBoxVM_HxaqOSAepT.png
+2026-02-17 22:17:01.643 - Task completed. File name: VirtualBoxVM_HxaqOSAepT.png, Duration: 2395 ms
+2026-02-17 22:58:51.382 - Task in queue. Job: Job, Type: Image, Host: 
+2026-02-17 22:58:51.402 - Task status: Preparing
+2026-02-17 22:58:51.521 - Image copied to clipboard.
+2026-02-17 22:58:51.574 - Image saved to file: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\Screenshots\2026-02\VirtualBoxVM_GXIoEppxNx.png
+2026-02-17 22:58:51.594 - Task completed. File name: VirtualBoxVM_GXIoEppxNx.png, Duration: 192 ms
+2026-02-17 22:59:04.577 - Task in queue. Job: Job, Type: Image, Host: 
+2026-02-17 22:59:04.597 - Task status: Preparing
+2026-02-17 22:59:04.627 - Image copied to clipboard.
+2026-02-17 22:59:04.643 - Image saved to file: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\Screenshots\2026-02\VirtualBoxVM_8KHzPGnpcD.png
+2026-02-17 22:59:04.669 - Task completed. File name: VirtualBoxVM_8KHzPGnpcD.png, Duration: 73 ms
+2026-02-17 22:59:15.936 - Task in queue. Job: Job, Type: Image, Host: 
+2026-02-17 22:59:15.959 - Task status: Preparing
+2026-02-17 22:59:16.010 - Image copied to clipboard.
+2026-02-17 22:59:16.054 - Image saved to file: D:\Coding\Projects\AllVSCodeProjects\Websites\Portfolio_Blog\ItsJustKon.github.io\screenshots\Screenshots\2026-02\VirtualBoxVM_mbrC8omRIm.png
+2026-02-17 22:59:16.079 - Task completed. File name: VirtualBoxVM_mbrC8omRIm.png, Duration: 120 ms

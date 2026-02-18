@@ -253,6 +253,9 @@
           "BlurRadius": 35,
           "PixelateSize": 15,
           "HighlightColor": "Yellow",
+          "SpotlightDim": 30,
+          "SpotlightBlur": 10,
+          "SpotlightEllipse": false,
           "CutOutEffectType": "None",
           "CutOutEffectSize": 10,
           "CutOutBackgroundColor": "Transparent"
@@ -423,6 +426,7 @@
         "Output": "Html",
         "SkipHiddenFolders": true,
         "SkipHiddenFiles": true,
+        "SkipFiles": false,
         "MaxDepthLevel": 0,
         "ShowSizeInfo": true,
         "AddFooter": true,
@@ -508,6 +512,22 @@
         "WindowTitle": null,
         "AutoCloseWindow": false,
         "ExcludeTaskbarArea": false
+      },
+      "AIOptions": {
+        "Provider": "OpenAI",
+        "OpenAIAPIKey": null,
+        "OpenAIModel": "gpt-5-mini",
+        "OpenAICustomURL": null,
+        "OpenAIReasoningEffort": "minimal",
+        "OpenAIVerbosity": "medium",
+        "GeminiAPIKey": null,
+        "GeminiModel": "gemini-1.5-flash-latest",
+        "OpenRouterAPIKey": null,
+        "OpenRouterModel": "google/gemini-flash-1.5",
+        "Input": "What is in this image?",
+        "AutoStartRegion": true,
+        "AutoStartAnalyze": true,
+        "AutoCopyResult": false
       }
     },
     "UseDefaultAdvancedSettings": true,
@@ -638,7 +658,7 @@
   "TaskbarProgressEnabled": true,
   "UseWhiteShareXIcon": false,
   "RememberMainFormPosition": false,
-  "MainFormPosition": "540, 270",
+  "MainFormPosition": "2202, 90",
   "RememberMainFormSize": false,
   "MainFormSize": "895, 590",
   "TrayLeftClickAction": "RectangleRegion",
@@ -830,12 +850,13 @@
   "ImageHistorySettings": {
     "RememberWindowState": true,
     "WindowState": {
-      "Location": "0, 0",
-      "Size": "0, 0",
+      "Location": "455, 170",
+      "Size": "1010, 700",
       "IsMaximized": false
     },
     "ThumbnailSize": "150, 150",
     "MaxItemCount": 250,
+    "AutoLoadMoreItems": true,
     "FilterMissingFiles": false,
     "ImageOnly": true,
     "RememberSearchText": false,
@@ -896,9 +917,9 @@
   "PNGStripColorSpaceInformation": false,
   "DisableUpload": false,
   "URLEncodeIgnoreEmoji": true,
-  "ShowUploadWarning": false,
   "ShowMultiUploadWarning": true,
   "ShowLargeFileSizeWarning": 100,
+  "UseMachineSpecificUploadersConfig": false,
   "CustomUploadersConfigPath": null,
   "CustomHotkeysConfigPath": null,
   "CustomScreenshotsPath2": null,
@@ -907,5 +928,5 @@
   "DropAlignment": "BottomRight",
   "DropOpacity": 100,
   "DropHoverOpacity": 255,
-  "ApplicationVersion": "18.0.1"
+  "ApplicationVersion": "19.0.2"
 }
